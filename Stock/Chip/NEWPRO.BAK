@@ -1,0 +1,83 @@
+set path to c:\stock\dbf
+IF !USED('protab')
+	SELECT 0
+	USE protab
+ENDIF
+IF !USED('famtab')
+	SELECT 0
+	USE famtab
+ENDIF
+IF !USED('famtab1')	
+	SELECT 0
+	USE famtab1
+ENDIF
+IF !USED('fl4tab')	
+	SELECT 0
+	USE fl4tab
+ENDIF
+IF !USED('dubai')	
+	SELECT 0
+	USE c:\stock\chip\dubai
+ENDIF	
+
+SELECT dubai
+GO TOP
+DO WHILE !EOF()
+	m.serial   = getser()
+	m.name     = product
+**	fifty      = price+(price*0.5)
+	fifty      = price+(price*0.4)
+	eight      = fifty+(fifty*0.8)
+	m.selling  = ROUND(((((price*0.1)+eight)/6)+1)*3.65,0)
+	m.selling1 = m.selling
+	m.number   = ALLTRIM(barcode)
+	m.field2   = modele
+	m.famtab   = 1
+	m.famtab1  = 1
+	m.barcode  = m.number
+	m.des      = ALLTRIM(m.name)+'/'+ALLTRIM(m.field2)+'/'+m.number
+	tsize      = SUBSTR(size,7)
+	m.fl4tab   = getsize(tsize)
+	m.curtab   = 1
+	m.adjqty   = 0
+	SELECT protab
+	SET ORDER TO barcode
+	IF !SEEK(m.barcode)
+		APPEND BLANK
+		GATHER MEMVAR MEMO
+	ENDIF
+	SELECT dubai
+	SKIP
+ENDDO
+
+
+PROCEDURE getsize
+*****************
+PARAMETERS tsize
+
+tselect = SELECT()
+SELECT fl4tab
+LOCATE FOR name=tsize
+IF FOUND()
+	tser = serial
+ELSE
+	APPEND BLANK
+	REPLACE serial WITH RECNO()
+	REPLACE number WITH ALLTRIM(STR(RECNO()))
+	REPLACE name   WITH ALLTRIM(tsize)
+	tser = serial
+ENDIF
+SELECT (tselect)
+RETURN tser
+
+PROCEDURE getser
+****************
+tselect = SELECT()
+torder  = ORDER()
+SELECT protab
+SET ORDER TO serial
+GO BOTTOM
+tserial = serial+1
+SET ORDER TO (torder)
+SELECT (tselect)
+RETURN tserial

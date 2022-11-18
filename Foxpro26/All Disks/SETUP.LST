@@ -1,0 +1,26 @@
+[Params]
+	WndTitle   = Microsoft FoxPro for Windows Setup
+	WndMess    = Initializing Setup...
+	TmpDirSize = 500
+	TmpDirName = ~msstfqf.t
+	CmdLine    = _mstest foxprow.mst /C "/S %s %s"
+	DrvModName = DSHELL
+
+[Files]
+	foxprow.ms_  = foxprow.mst
+	setup.in_    = setup.inc
+	foxlabel.db_ = foxlabel.dbf
+	foxlabel.fp_ = foxlabel.fpt
+	foxprow.inf  = foxprow.inf
+	mscomstf.dl_ = mscomstf.dll
+	mscpydis.dl_ = mscpydis.dll
+	msinsstf.dl_ = msinsstf.dll
+	msuilstf.dl_ = msuilstf.dll
+	msshlstf.dl_ = msshlstf.dll
+	mscuistf.dl_ = mscuistf.dll
+	msdetstf.dl_ = msdetstf.dll
+	iconbtn.dl_  = iconbtn.dll
+	shell.dl_    = shell.dll
+	ver.dl_      = ver.dll
+	_mssetup.su_ = _mssetup.exe
+	_mstest.ex_  = _mstest.exe

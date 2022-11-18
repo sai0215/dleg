@@ -1,0 +1,86 @@
+IF !USED('newarr')
+	SELECT 0
+	USE newarr
+ENDIF
+IF !USED('protab')
+	SELECT 0
+	USE protab
+ENDIF
+IF !USED('ordhea')
+	SELECT 0
+	USE ordhea
+ENDIF
+IF !USED('ordrow')
+	SELECT 0
+	USE ordrow
+ENDIF
+IF !USED('arrhea')
+	SELECT 0
+	USE arrhea
+ENDIF
+IF !USED('arrrow')
+	SELECT 0
+	USE arrrow
+ENDIF
+
+SELECT ordhea
+SET ORDER TO 0
+GO BOTTOM
+m.serial = serial+1
+APPEND BLANK
+REPLACE serial  WITH m.serial
+REPLACE date    WITH DATE()
+REPLACE ref_no  WITH 'DU -'+RIGHT(STR(YEAR(date)),2)+PADL(MONTH(date),2,'0')+PADL(DAY(date),2,'0')+'-O'+PADL(serial,3,'0')
+REPLACE suptab  WITH 1
+REPLACE curtab1 WITH 5
+REPLACE saltab  WITH 1
+REPLACE curtab2 WITH 2
+REPLACE warhea  WITH 1
+
+SELECT arrhea
+SET ORDER TO 0
+GO BOTTOM
+m.arrser = serial+1
+APPEND BLANK
+REPLACE serial WITH m.arrser
+REPLACE curtab WITH 5
+REPLACE date   WITH DATE()
+REPLACE suptab WITH 1
+REPLACE ordhea WITH m.serial
+REPLACE warhea WITH 1
+
+SELECT newarr
+GO TOP
+DO WHILE !EOF()
+	m.ordhea = m.serial
+	m.arrhea = m.arrser
+	m.des    = ALLTRIM(barcode)
+	m.protab = getpro(m.des)
+	m.qty    = qty
+	m.uprice = price
+	m.price  = total
+	SELECT ordrow
+	APPEND BLANK
+	GATHER MEMVAR
+	SELECT arrrow
+	APPEND BLANK
+	GATHER MEMVAR
+	SELECT newarr
+	SKIP
+ENDDO
+CLOSE DATA
+
+PROCEDURE getpro
+****************
+PARAMETERS tnum
+
+tselect = SELECT()
+SELECT protab
+SET ORDER TO barcode
+IF SEEK(tnum)
+	tserial = serial
+ELSE
+	tserial = 0
+ENDIF
+SELECT (tselect)
+RETURN tserial

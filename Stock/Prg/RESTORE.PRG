@@ -1,0 +1,1 @@
+! XCOPY C:\STOCK\TMP\*.* C:\STOCK\DBF

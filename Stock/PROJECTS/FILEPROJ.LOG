@@ -1,0 +1,12 @@
+Line 18: Class MSComm of control prtcomm was not a loaded control class.
+Line 35: Class MSComm of control comm was not a loaded control class.
+Line 19: The property name CommPort in prtcomm is invalid.
+Line 20: The property name Interval in prtcomm is invalid.
+Line 22: The property name RTSEnable in prtcomm is invalid.
+Line 23: The property name Settings in prtcomm is invalid.
+Line 36: The property name Interval in comm is invalid.
+Line 38: The property name NullDiscard in comm is invalid.
+Line 39: The property name RThreshold in comm is invalid.
+Line 40: The property name RTSEnable in comm is invalid.
+Line 41: The property name Settings in comm is invalid.
+Line 42: The property name SThreshold in comm is invalid.

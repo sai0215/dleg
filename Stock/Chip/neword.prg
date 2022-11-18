@@ -1,0 +1,43 @@
+IF !USED('dubai')
+	SELECT 0
+	USE c:\stock\chip\dubai
+ENDIF
+IF !USED('ordrow')
+	SELECT 0
+	USE ordrow
+ENDIF
+if !used('protab')
+	select 0
+	USE protab
+ENDIF
+
+SELECT dubai
+GO TOP
+DO WHILE !EOF()
+	m.ordhea = 5
+	m.des    = ALLTRIM(barcode)
+	m.protab = getpro(m.des)
+	m.qty    = qty
+	m.uprice = price
+	m.price  = total
+	SELECT ordrow
+	APPEND BLANK
+	GATHER MEMVAR
+	SELECT dubai
+	SKIP
+ENDDO
+
+PROCEDURE getpro
+****************
+PARAMETERS tnum
+
+tselect = SELECT()
+SELECT protab
+SET ORDER TO barcode
+IF SEEK(tnum)
+	tserial = serial
+ELSE
+	tserial = 0
+ENDIF
+SELECT (tselect)
+RETURN tserial

@@ -1,0 +1,571 @@
+[Source Media Descriptions]
+	"1", "Disk 1", "", ".\"
+
+[Default File Settings]
+"STF_BACKUP"     = ""
+"STF_COPY"       = "YES"
+"STF_DECOMPRESS" = "YES"
+"STF_OVERWRITE"  = "ALWAYS"
+"STF_READONLY"   = "YES"
+"STF_ROOT"       = ""
+"STF_SETTIME"    = "YES"
+"STF_TIME"       = "0"
+"STF_VITAL"      = "YES"
+
+[Files]
+	1, foxprow.inf,,,, 1994-03-11, !DECOMPRESS,,, !READONLY,, foxprow.inf,,,, 44961,,,,, !VITAL
+	1, setup.lst,,,, 1994-03-11,,,, !READONLY,, setup.lst,,,, 719,,,,,
+
+[winhelp]
+	1, foxhelp.hlp,,,, 1994-03-11,,,, !READONLY,, foxhelp.hlp,,,, 2271255, SYSTEM,,,, !VITAL
+
+[setup]
+	1, setup\foxprow.inf,,,, 1994-03-11, !DECOMPRESS,,, !READONLY,, setup\foxprow.inf,,,, 52501,,,,,
+	1, setup\_mstest.exe,,,, 1994-03-11,,,, !READONLY,, setup\_mstest.exe,,,, 89504,,,,,
+	1, setup\mscuistf.dll,,,, 1994-03-11,,,, !READONLY,, setup\mscuistf.dll,,,, 109952,,,,,
+	1, setup\mscomstf.dll,,,, 1994-03-11,,,, !READONLY,, setup\mscomstf.dll,,,, 75312,,,,,
+	1, setup\msinsstf.dll,,,, 1994-03-11,,,, !READONLY,, setup\msinsstf.dll,,,, 66192,,,,,
+	1, setup.exe,,,, 1994-03-11, !DECOMPRESS,,, !READONLY,, setup.exe,,,, 24624,,,,,
+	1, setup\msdetstf.dll,,,, 1994-03-11,,,, !READONLY,, setup\msdetstf.dll,,,, 25232,,,,,
+	1, setup\foxprow.mst,,,, 1994-03-11,,,, !READONLY,, setup\foxprow.mst,,,, 47306,,,,,
+	1, setup\setup.inc,,,, 1994-03-11,,,, !READONLY,, setup\setup.inc,,,, 49238,,,,,
+	1, setup\msshlstf.dll,,,, 1994-03-11,,,, !READONLY,, setup\msshlstf.dll,,,, 14336,,,,,
+	1, setup\mscpydis.dll,,,, 1994-03-11,,,, !READONLY,, setup\mscpydis.dll,,,, 11472,,,,,
+	1, setup\iconbtn.dll,,,, 1994-03-11,,,, !READONLY,, setup\iconbtn.dll,,,, 22064,,,,,
+	1, setup\_mssetup.sup,,,, 1994-03-11,,,, !READONLY,, setup\_mssetup.sup,,,, 9813,,,,,
+	1, setup\msuilstf.dll,,,, 1994-03-11,,,, !READONLY,, setup\msuilstf.dll,,,, 6336,,,,,
+	1, setup\foxlabel.fpt,,,, 1994-03-11,,,, !READONLY,, setup\foxlabel.fpt,,,, 11520,,,,, !VITAL
+	1, setup\foxlabel.dbf,,,, 1994-03-11,,,, !READONLY,, setup\foxlabel.dbf,,,, 6622,,,,, !VITAL
+	1, setup.lst,,,, 1994-03-11, !DECOMPRESS,,, !READONLY,, setup.lst,,,, 821,,,,,
+	1, setup.ini,,,, 1994-03-11, !DECOMPRESS,,, !READONLY,, setup.ini,,,, 149,,,,,
+
+[spellapp]
+	1, spellchk.app,,,, 1994-03-11,,,, !READONLY,, spellchk.app,,,, 28577,,,,, !VITAL
+
+[graphwiz]
+	1, gengraph.app,,,, 1994-03-11,,,, !READONLY,, gengraph.app,,,, 140748,,,,, !VITAL
+
+[winfiles]
+	1, setup\winhelp.exe,,,, 1994-03-11,, 1033, OLDER, !READONLY,, winhelp.exe,,,, 256192,,,, 3.10.0.425, !VITAL
+	1, setup\winhelp.hlp,,,, 1994-03-11,,, OLDER, !READONLY,, winhelp.hlp,,,, 26960,,,,, !VITAL
+
+[foxdoc]
+	1, foxdoc.fll,,,, 1994-03-11,,,, !READONLY,, foxdoc.fll,,,, 213360,,,,, !VITAL
+	1, foxdoc.app,,,, 1994-03-11,,,, !READONLY,, foxdoc.app,,,, 124495,,,,, !VITAL
+	1, foxdoc.msg,,,, 1994-03-11,,,, !READONLY,, foxdoc.msg,,,, 34141,,,,, !VITAL
+	1, prowords.fxd,,,, 1994-03-11,,,, !READONLY,, prowords.fxd,,,, 7160,,,,, !VITAL
+	1, fxpwords.fxd,,,, 1994-03-11,,,, !READONLY,, fxpwords.fxd,,,, 5070,,,,, !VITAL
+	1, fx2words.fxd,,,, 1994-03-11,,,, !READONLY,, fx2words.fxd,,,, 1039,,,,, !VITAL
+
+[sysfiles]
+	1, setup\foxprint.ttf,,,, 1994-03-11,,, OLDER, !READONLY,, foxprint.ttf,,,, 80088,,,, 1.0.0.0, !VITAL
+	1, setup\commdlg.dll,,,, 1994-03-11,, 1033, OLDER, !READONLY,, commdlg.dll,,,, 89248, SYSTEM,,, 3.10.0.103,
+	1, setup\olecli.dll,,,, 1994-03-11,, 1033, OLDER, !READONLY,, olecli.dll,,,, 83456, SYSTEM,,, 1.10.0.0,
+	1, setup\shell.dll,,,, 1994-03-11,, 1033, OLDER, !READONLY,, shell.dll,,,, 41600, SYSTEM,,, 3.10.0.103,
+	1, setup\ddeml.dll,,,, 1994-03-11,, 1033, OLDER, !READONLY,, ddeml.dll,,,, 38400, SYSTEM,,, 3.10.2.102,
+	1, setup\olesvr.dll,,,, 1994-03-11,, 1033, OLDER, !READONLY,, olesvr.dll,,,, 24064, SYSTEM,,, 1.10.0.0,
+	1, setup\toolhelp.dll,,,, 1994-03-11,, 1033, OLDER, !READONLY,, toolhelp.dll,,,, 14128, SYSTEM,,, 3.10.0.103,
+	1, setup\ver.dll,,,, 1994-03-11,, 1033, OLDER, !READONLY,, ver.dll,,,, 9008, SYSTEM,,, 3.10.0.103,
+	1, setup\foxprint.fot,,,, 1994-03-11,,, OLDER, !READONLY,, foxprint.fot,,,, 1312,,,,, !VITAL
+
+[spell]
+	1, proof\mssp_am.lex,,,, 1994-03-11,,, OLDER, !READONLY,, mssp_am.lex,,,, 176839, SYSTEM,,,, !VITAL
+	1, proof\mssp_br.lex,,,, 1994-03-11,,, OLDER, !READONLY,, mssp_br.lex,,,, 176298, SYSTEM,,,, !VITAL
+	1, proof\msspell.dll,,,, 1994-03-11,,,, !READONLY,, msspell.dll,,,, 77312, SYSTEM,,, 1.5.0.0, !VITAL
+
+[msgraph]
+	1, msgraph\graph.exe,,,, 1994-03-11,, 1033, OLDER, !READONLY,, graph.exe,,,, 550400, SYSTEM,,, 3.0.2.0, !VITAL
+	1, msgraph\msgraph.hlp,,,, 1994-03-11,,, OLDER, !READONLY,, msgraph.hlp,,,, 297500,,,,,
+
+[examples]
+	1, goodies\goodies.pak,,,, 1994-03-11,,,, !READONLY,, goodies\goodies.pak,,,, 656909,,,,, !VITAL
+	1, goodies\foxunpak.exe,,,, 1994-03-11,,,, !READONLY,, goodies\foxunpak.exe,,,, 34143,,,,, !VITAL
+	1, goodies\readme.txt,,,, 1994-03-11,,,, !READONLY,, goodies\readme.txt,,,, 1126,,,,, !VITAL
+	1, goodies\allunpak.bat,,,, 1994-03-11,,,, !READONLY,, goodies\allunpak.bat,,,, 22,,,,, !VITAL
+
+[fphelp]
+	1, foxhelp.fpt,,,, 1994-03-11,,,, !READONLY,, foxhelp.fpt,,,, 2677818,,,,, !VITAL
+	1, foxhelp.dbf,,,, 1994-03-11,,,, !READONLY,, foxhelp.dbf,,,, 58568,,,,, !VITAL
+
+[tutorial]
+	1, sample\organize\credit.app,,,, 1994-03-11,,,, !READONLY,, sample\organize\credit.app,,,, 135736,,,,, !VITAL
+	1, language\customer.cdx,,,, 1994-03-11,,,, !READONLY,, language\customer.cdx,,,, 94720,,,,, !VITAL
+	1, sample\catalog\customer.cdx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\customer.cdx,,,, 95232,,,,, !VITAL
+	1, sample\organize\trans.app,,,, 1994-03-11,,,, !READONLY,, sample\organize\trans.app,,,, 109603,,,,, !VITAL
+	1, sample\organize\clients.app,,,, 1994-03-11,,,, !READONLY,, sample\organize\clients.app,,,, 104067,,,,, !VITAL
+	1, sample\organize\restaurs.app,,,, 1994-03-11,,,, !READONLY,, sample\organize\restaurs.app,,,, 120555,,,,, !VITAL
+	1, sample\organize\accnts.app,,,, 1994-03-11,,,, !READONLY,, sample\organize\accnts.app,,,, 100552,,,,, !VITAL
+	1, sample\organize\family.app,,,, 1994-03-11,,,, !READONLY,, sample\organize\family.app,,,, 101404,,,,, !VITAL
+	1, tutorial\morereg.fpt,,,, 1994-03-11,,,, !READONLY,, tutorial\morereg.fpt,,,, 398784,,,,, !VITAL
+	1, sample\ole\oletable.fpt,,,, 1994-03-11,,,, !READONLY,, sample\ole\oletable.fpt,,,, 72000,,,,, !VITAL
+	1, tutorial\customer.dbf,,,, 1994-03-11,,,, !READONLY,, tutorial\customer.dbf,,,, 74918,,,,, !VITAL
+	1, sample\catalog\customer.dbf,,,, 1994-03-11,,,, !READONLY,, sample\catalog\customer.dbf,,,, 74918,,,,, !VITAL
+	1, language\customer.dbf,,,, 1994-03-11,,,, !READONLY,, language\customer.dbf,,,, 74918,,,,, !VITAL
+	1, sample\catalog\salesman.app,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesman.app,,,, 90220,,,,, !VITAL
+	1, sample\organize\dbfs\details.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\details.dbf,,,, 144224,,,,, !VITAL
+	1, sample\laser\crosplat\laser.app,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\laser.app,,,, 100236,,,,, !VITAL
+	1, sample\laser\transprt\laser.app,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\laser.app,,,, 74279,,,,, !VITAL
+	1, sample\organize\dbfs\details.cdx,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\details.cdx,,,, 44544,,,,, !VITAL
+	1, sample\organize\convert.app,,,, 1994-03-11,,,, !READONLY,, sample\organize\convert.app,,,, 57294,,,,, !VITAL
+	1, sample\organize\dbfs\details.fpt,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\details.fpt,,,, 147487,,,,, !VITAL
+	1, tutorial\detail.dbf,,,, 1994-03-11,,,, !READONLY,, tutorial\detail.dbf,,,, 49294,,,,, !VITAL
+	1, sample\catalog\detail.dbf,,,, 1994-03-11,,,, !READONLY,, sample\catalog\detail.dbf,,,, 49294,,,,, !VITAL
+	1, sample\laser\dosonly\laser.app,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\laser.app,,,, 48036,,,,, !VITAL
+	1, sample\catalog\parts.sct,,,, 1994-03-11,,,, !READONLY,, sample\catalog\parts.sct,,,, 51712,,,,, !VITAL
+	1, language\parts.cdx,,,, 1994-03-11,,,, !READONLY,, language\parts.cdx,,,, 33792,,,,, !VITAL
+	1, tutorial\east.clp,,,, 1994-03-11,,,, !READONLY,, tutorial\east.clp,,,, 132619,,,,, !VITAL
+	1, sample\laser\data\laser.cdx,,,, 1994-03-11,,,, !READONLY,, sample\laser\data\laser.cdx,,,, 40448,,,,, !VITAL
+	1, tutorial\west.clp,,,, 1994-03-11,,,, !READONLY,, tutorial\west.clp,,,, 132619,,,,, !VITAL
+	1, sample\organize\dbfs\orghelp.fpt,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\orghelp.fpt,,,, 38016,,,,, !VITAL
+	1, sample\catalog\salesman.sct,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesman.sct,,,, 34031,,,,, !VITAL
+	1, sample\organize\dbfs\restaurs.fpt,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\restaurs.fpt,,,, 137984,,,,, !VITAL
+	1, sample\catalog\invoices.cdx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\invoices.cdx,,,, 34304,,,,, !VITAL
+	1, sample\catalog\customer.sct,,,, 1994-03-11,,,, !READONLY,, sample\catalog\customer.sct,,,, 38400,,,,, !VITAL
+	1, tutorial\parts.dbf,,,, 1994-03-11,,,, !READONLY,, tutorial\parts.dbf,,,, 21170,,,,, !VITAL
+	1, sample\laser\data\laser.fpt,,,, 1994-03-11,,,, !READONLY,, sample\laser\data\laser.fpt,,,, 22976,,,,, !VITAL
+	1, sample\catalog\parts.dbf,,,, 1994-03-11,,,, !READONLY,, sample\catalog\parts.dbf,,,, 21170,,,,, !VITAL
+	1, sample\catalog\maysales.sct,,,, 1994-03-11,,,, !READONLY,, sample\catalog\maysales.sct,,,, 37120,,,,, !VITAL
+	1, language\parts.dbf,,,, 1994-03-11,,,, !READONLY,, language\parts.dbf,,,, 21170,,,,, !VITAL
+	1, sample\organize\organize.app,,,, 1994-03-11,,,, !READONLY,, sample\organize\organize.app,,,, 19074,,,,, !VITAL
+	1, sample\laser\data\laser.dbf,,,, 1994-03-11,,,, !READONLY,, sample\laser\data\laser.dbf,,,, 27632,,,,, !VITAL
+	1, sample\laser\crosplat\tools\laser.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\laser.sct,,,, 27324,,,,, !VITAL
+	1, sample\catalog\detail.cdx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\detail.cdx,,,, 16896,,,,, !VITAL
+	1, sample\laser\transprt\tools\laser.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\laser.sct,,,, 24798,,,,, !VITAL
+	1, sample\laser\crosplat\tools\laser.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\laser.scx,,,, 54409,,,,, !VITAL
+	1, sample\catalog\parts.cdx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\parts.cdx,,,, 16384,,,,, !VITAL
+	1, sample\organize\dbfs\restaurs.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\restaurs.dbf,,,, 20042,,,,, !VITAL
+	1, sample\organize\dbfs\clients.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\clients.dbf,,,, 17614,,,,, !VITAL
+	1, sample\laser\transprt\laser.txt,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\laser.txt,,,, 32850,,,,, !VITAL
+	1, sample\laser\dosonly\laser.txt,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\laser.txt,,,, 32850,,,,, !VITAL
+	1, sample\organize\screens\clients.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\clients.sct,,,, 16995,,,,, !VITAL
+	1, sample\laser\transprt\tools\laser.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\laser.scx,,,, 43219,,,,, !VITAL
+	1, sample\laser\transprt\tools\browser.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\browser.sct,,,, 20416,,,,, !VITAL
+	1, sample\laser\crosplat\tools\browser.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\browser.sct,,,, 20416,,,,, !VITAL
+	1, sample\organize\screens\credit.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\credit.sct,,,, 16599,,,,, !VITAL
+	1, language\invoices.cdx,,,, 1994-03-11,,,, !READONLY,, language\invoices.cdx,,,, 14848,,,,, !VITAL
+	1, tutorial\step5.frx,,,, 1994-03-11,,,, !READONLY,, tutorial\step5.frx,,,, 30332,,,,, !VITAL
+	1, sample\organize\screens\restaurs.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\restaurs.sct,,,, 16005,,,,, !VITAL
+	1, sample\organize\screens\addusers.prg,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\addusers.prg,,,, 22820,,,,, !VITAL
+	1, sample\organize\credit.pjt,,,, 1994-03-11,,,, !READONLY,, sample\organize\credit.pjt,,,, 17984,,,,, !VITAL
+	1, sample\catalog\salesman.scx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesman.scx,,,, 27180,,,,, !VITAL
+	1, tutorial\region.bmp,,,, 1994-03-11,,,, !READONLY,, tutorial\region.bmp,,,, 7268,,,,, !VITAL
+	1, sample\organize\screens\trans.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\trans.sct,,,, 16005,,,,, !VITAL
+	1, sample\organize\screens\restaurs.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\restaurs.scx,,,, 24196,,,,, !VITAL
+	1, sample\organize\screens\credit.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\credit.scx,,,, 25688,,,,, !VITAL
+	1, sample\organize\screens\convert.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\convert.sct,,,, 10560,,,,, !VITAL
+	1, sample\organize\prgs\utility.prg,,,, 1994-03-11,,,, !READONLY,, sample\organize\prgs\utility.prg,,,, 12065,,,,, !VITAL
+	1, sample\laser\crosplat\tools\laser.frx,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\laser.frx,,,, 26912,,,,, !VITAL
+	1, sample\helptree\helptree.mpr,,,, 1994-03-11,,,, !READONLY,, sample\helptree\helptree.mpr,,,, 17566,,,,, !VITAL
+	1, sample\organize\screens\trans.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\trans.scx,,,, 21212,,,,, !VITAL
+	1, sample\organize\screens\family.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\family.scx,,,, 23077,,,,, !VITAL
+	1, sample\organize\screens\clients.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\clients.scx,,,, 21958,,,,, !VITAL
+	1, sample\organize\screens\browser.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\browser.sct,,,, 12474,,,,, !VITAL
+	1, sample\organize\restaurs.pjt,,,, 1994-03-11,,,, !READONLY,, sample\organize\restaurs.pjt,,,, 13952,,,,, !VITAL
+	1, sample\organize\dbfs\factors.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\factors.dbf,,,, 13185,,,,, !VITAL
+	1, sample\laser\dosonly\tools\laser.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\laser.scx,,,, 22704,,,,, !VITAL
+	1, sample\laser\crosplat\tools\goto.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\goto.sct,,,, 14157,,,,, !VITAL
+	1, sample\helptree\helptree.mnt,,,, 1994-03-11,,,, !READONLY,, sample\helptree\helptree.mnt,,,, 13233,,,,, !VITAL
+	1, sample\catalog\scaffold.prg,,,, 1994-03-11,,,, !READONLY,, sample\catalog\scaffold.prg,,,, 12098,,,,, !VITAL
+	1, language\salesman.cdx,,,, 1994-03-11,,,, !READONLY,, language\salesman.cdx,,,, 16384,,,,, !VITAL
+	1, tutorial\step4.frx,,,, 1994-03-11,,,, !READONLY,, tutorial\step4.frx,,,, 16652,,,,, !VITAL
+	1, tutorial\invoices.dbf,,,, 1994-03-11,,,, !READONLY,, tutorial\invoices.dbf,,,, 6168,,,,, !VITAL
+	1, tutorial\customer.cdx,,,, 1994-03-11,,,, !READONLY,, tutorial\customer.cdx,,,, 6656,,,,, !VITAL
+	1, sample\organize\trans.pjt,,,, 1994-03-11,,,, !READONLY,, sample\organize\trans.pjt,,,, 13248,,,,, !VITAL
+	1, sample\organize\screens\family.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\family.sct,,,, 9405,,,,, !VITAL
+	1, sample\organize\screens\browser.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\browser.scx,,,, 15244,,,,, !VITAL
+	1, sample\organize\screens\accnts.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\accnts.scx,,,, 17482,,,,, !VITAL
+	1, sample\organize\screens\accnts.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\accnts.sct,,,, 9669,,,,, !VITAL
+	1, sample\organize\family.pjt,,,, 1994-03-11,,,, !READONLY,, sample\organize\family.pjt,,,, 12992,,,,, !VITAL
+	1, sample\organize\dbfs\restaurs.cdx,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\restaurs.cdx,,,, 9728,,,,, !VITAL
+	1, sample\organize\dbfs\personal.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\personal.dbf,,,, 7586,,,,, !VITAL
+	1, sample\organize\clients.pjt,,,, 1994-03-11,,,, !READONLY,, sample\organize\clients.pjt,,,, 12288,,,,, !VITAL
+	1, sample\organize\accnts.pjt,,,, 1994-03-11,,,, !READONLY,, sample\organize\accnts.pjt,,,, 12992,,,,, !VITAL
+	1, sample\laser\transprt\tools\browser.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\browser.scx,,,, 15244,,,,, !VITAL
+	1, sample\laser\dosonly\tools\browser.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\browser.sct,,,, 8679,,,,, !VITAL
+	1, sample\laser\crosplat\tools\browser.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\browser.scx,,,, 15617,,,,, !VITAL
+	1, sample\catalog\parts.scx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\parts.scx,,,, 16736,,,,, !VITAL
+	1, sample\catalog\invoices.dbf,,,, 1994-03-11,,,, !READONLY,, sample\catalog\invoices.dbf,,,, 6168,,,,, !VITAL
+	1, sample\catalog\customer.scx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\customer.scx,,,, 17855,,,,, !VITAL
+	1, language\invoices.dbf,,,, 1994-03-11,,,, !READONLY,, language\invoices.dbf,,,, 6168,,,,, !VITAL
+	1, tutorial\step3.frx,,,, 1994-03-11,,,, !READONLY,, tutorial\step3.frx,,,, 15512,,,,, !VITAL
+	1, sample\organize\reports\charges.frx,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\charges.frx,,,, 12662,,,,, !VITAL
+	1, sample\organize\menus\mainmenu.mnt,,,, 1994-03-11,,,, !READONLY,, sample\organize\menus\mainmenu.mnt,,,, 7579,,,,, !VITAL
+	1, sample\laser\transprt\tools\laserepo.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\laserepo.scx,,,, 10768,,,,, !VITAL
+	1, sample\laser\transprt\tools\laser.frx,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\laser.frx,,,, 14087,,,,, !VITAL
+	1, sample\laser\transprt\tools\goto.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\goto.sct,,,, 9720,,,,, !VITAL
+	1, sample\laser\transprt\laser.pjt,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\laser.pjt,,,, 6039,,,,, !VITAL
+	1, sample\laser\dosonly\tools\laser.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\laser.sct,,,, 7260,,,,, !VITAL
+	1, sample\laser\dosonly\tools\laser.frx,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\laser.frx,,,, 14087,,,,, !VITAL
+	1, sample\laser\crosplat\tools\laserepo.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\laserepo.scx,,,, 11141,,,,, !VITAL
+	1, sample\laser\crosplat\laser.pjt,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\laser.pjt,,,, 7128,,,,, !VITAL
+	1, sample\catalog\salesrep.frx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesrep.frx,,,, 13232,,,,, !VITAL
+	1, sample\catalog\salesman.cdx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesman.cdx,,,, 11776,,,,, !VITAL
+	1, sample\catalog\offices.frx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\offices.frx,,,, 13232,,,,, !VITAL
+	1, sample\catalog\maysales.scx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\maysales.scx,,,, 14125,,,,, !VITAL
+	1, sample\catalog\invoices.frx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\invoices.frx,,,, 12092,,,,, !VITAL
+	1, sample\catalog\inventry.frx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\inventry.frx,,,, 10952,,,,, !VITAL
+	1, tutorial\salesman.dbf,,,, 1994-03-11,,,, !READONLY,, tutorial\salesman.dbf,,,, 4130,,,,, !VITAL
+	1, sample\organize\screens\reports.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\reports.scx,,,, 9649,,,,, !VITAL
+	1, sample\organize\screens\reports.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\reports.sct,,,, 5973,,,,, !VITAL
+	1, sample\organize\screens\letters.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\letters.scx,,,, 7784,,,,, !VITAL
+	1, sample\organize\screens\letters.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\letters.sct,,,, 4422,,,,, !VITAL
+	1, sample\organize\screens\labels.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\labels.scx,,,, 8157,,,,, !VITAL
+	1, sample\organize\screens\labels.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\labels.sct,,,, 5280,,,,, !VITAL
+	1, sample\organize\screens\intro.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\intro.scx,,,, 7038,,,,, !VITAL
+	1, sample\organize\screens\goto.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\goto.scx,,,, 6665,,,,, !VITAL
+	1, sample\organize\screens\goto.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\goto.sct,,,, 5717,,,,, !VITAL
+	1, sample\organize\screens\convert.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\convert.scx,,,, 7411,,,,, !VITAL
+	1, sample\organize\screens\addusers.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\addusers.scx,,,, 8157,,,,, !VITAL
+	1, sample\organize\screens\addusers.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\addusers.sct,,,, 6567,,,,, !VITAL
+	1, sample\organize\reports\restaurs.frx,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\restaurs.frx,,,, 7817,,,,, !VITAL
+	1, sample\organize\reports\cli_list.lbx,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\cli_list.lbx,,,, 7532,,,,, !VITAL
+	1, sample\organize\reports\cli_list.frx,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\cli_list.frx,,,, 10667,,,,, !VITAL
+	1, sample\organize\reports\cardnums.frx,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\cardnums.frx,,,, 6962,,,,, !VITAL
+	1, sample\organize\reports\cardlist.frx,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\cardlist.frx,,,, 9242,,,,, !VITAL
+	1, sample\organize\reports\act_info.frx,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\act_info.frx,,,, 8387,,,,, !VITAL
+	1, sample\organize\prgs\idleread.prg,,,, 1994-03-11,,,, !READONLY,, sample\organize\prgs\idleread.prg,,,, 4815,,,,, !VITAL
+	1, sample\organize\credit.pjx,,,, 1994-03-11,,,, !READONLY,, sample\organize\credit.pjx,,,, 7010,,,,, !VITAL
+	1, sample\ole\examples.spr,,,, 1994-03-11,,,, !READONLY,, sample\ole\examples.spr,,,, 6031,,,,, !VITAL
+	1, sample\ole\examples.scx,,,, 1994-03-11,,,, !READONLY,, sample\ole\examples.scx,,,, 7038,,,,, !VITAL
+	1, sample\laser\transprt\tools\menu.mnt,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\menu.mnt,,,, 5445,,,,, !VITAL
+	1, sample\laser\transprt\tools\goto.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\goto.scx,,,, 7038,,,,, !VITAL
+	1, sample\laser\transprt\tools\addnew.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\addnew.scx,,,, 7038,,,,, !VITAL
+	1, sample\laser\dosonly\tools\menu.mnt,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\menu.mnt,,,, 5445,,,,, !VITAL
+	1, sample\laser\dosonly\tools\browser.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\browser.scx,,,, 8530,,,,, !VITAL
+	1, sample\laser\dosonly\laser.pjt,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\laser.pjt,,,, 5346,,,,, !VITAL
+	1, sample\laser\crosplat\tools\menu.mnt,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\menu.mnt,,,, 5841,,,,, !VITAL
+	1, sample\laser\crosplat\tools\laserepo.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\laserepo.sct,,,, 9669,,,,, !VITAL
+	1, sample\laser\crosplat\tools\goto.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\goto.scx,,,, 7784,,,,, !VITAL
+	1, sample\laser\crosplat\tools\addnew.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\addnew.scx,,,, 7784,,,,, !VITAL
+	1, sample\helptree\helptree.mnx,,,, 1994-03-11,,,, !READONLY,, sample\helptree\helptree.mnx,,,, 12914,,,,, !VITAL
+	1, sample\dde\letter.doc,,,, 1994-03-11,,,, !READONLY,, sample\dde\letter.doc,,,, 3790,,,,, !VITAL
+	1, sample\dde\ddexl.scx,,,, 1994-03-11,,,, !READONLY,, sample\dde\ddexl.scx,,,, 9276,,,,, !VITAL
+	1, sample\dde\ddeword.scx,,,, 1994-03-11,,,, !READONLY,, sample\dde\ddeword.scx,,,, 9276,,,,, !VITAL
+	1, sample\dde\ddedata.prg,,,, 1994-03-11,,,, !READONLY,, sample\dde\ddedata.prg,,,, 5647,,,,, !VITAL
+	1, sample\catalog\sample.fct,,,, 1994-03-11,,,, !READONLY,, sample\catalog\sample.fct,,,, 8256,,,,, !VITAL
+	1, sample\catalog\salesman.pjt,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesman.pjt,,,, 6138,,,,, !VITAL
+	1, sample\catalog\salesman.dbf,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesman.dbf,,,, 4130,,,,, !VITAL
+	1, language\salesman.dbf,,,, 1994-03-11,,,, !READONLY,, language\salesman.dbf,,,, 4130,,,,, !VITAL
+	1, language\offices.cdx,,,, 1994-03-11,,,, !READONLY,, language\offices.cdx,,,, 15360,,,,, !VITAL
+	1, tutorial\salesman.fpt,,,, 1994-03-11,,,, !READONLY,, tutorial\salesman.fpt,,,, 2855,,,,, !VITAL
+	1, tutorial\invoices.cdx,,,, 1994-03-11,,,, !READONLY,, tutorial\invoices.cdx,,,, 7680,,,,, !VITAL
+	1, sample\organize\trans.pjx,,,, 1994-03-11,,,, !READONLY,, sample\organize\trans.pjx,,,, 5514,,,,, !VITAL
+	1, sample\organize\screens\tran.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\tran.scx,,,, 3308,,,,, !VITAL
+	1, sample\organize\screens\rest.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\rest.scx,,,, 3308,,,,, !VITAL
+	1, sample\organize\screens\packit.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\packit.scx,,,, 3681,,,,, !VITAL
+	1, sample\organize\screens\ohelp.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\ohelp.scx,,,, 3308,,,,, !VITAL
+	1, sample\organize\screens\oexit.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\oexit.scx,,,, 3308,,,,, !VITAL
+	1, sample\organize\screens\mapit.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\mapit.scx,,,, 3681,,,,, !VITAL
+	1, sample\organize\screens\fami.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\fami.scx,,,, 3308,,,,, !VITAL
+	1, sample\organize\screens\cred.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\cred.scx,,,, 3308,,,,, !VITAL
+	1, sample\organize\screens\conv.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\conv.scx,,,, 3681,,,,, !VITAL
+	1, sample\organize\screens\conv.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\conv.sct,,,, 3234,,,,, !VITAL
+	1, sample\organize\screens\control2.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\control2.scx,,,, 4427,,,,, !VITAL
+	1, sample\organize\screens\control2.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\control2.sct,,,, 3630,,,,, !VITAL
+	1, sample\organize\screens\control1.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\control1.scx,,,, 4800,,,,, !VITAL
+	1, sample\organize\screens\control1.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\control1.sct,,,, 3470,,,,, !VITAL
+	1, sample\organize\screens\clien.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\clien.scx,,,, 3308,,,,, !VITAL
+	1, sample\organize\screens\balance.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\balance.scx,,,, 5546,,,,, !VITAL
+	1, sample\organize\screens\alert.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\alert.scx,,,, 4054,,,,, !VITAL
+	1, sample\organize\screens\accnt.scx,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\accnt.scx,,,, 3308,,,,, !VITAL
+	1, sample\organize\restaurs.pjx,,,, 1994-03-11,,,, !READONLY,, sample\organize\restaurs.pjx,,,, 6194,,,,, !VITAL
+	1, sample\organize\reports\fam_list.lbx,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\fam_list.lbx,,,, 6962,,,,, !VITAL
+	1, sample\organize\reports\fam_list.frx,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\fam_list.frx,,,, 5822,,,,, !VITAL
+	1, sample\organize\organize.pjt,,,, 1994-03-11,,,, !READONLY,, sample\organize\organize.pjt,,,, 5952,,,,, !VITAL
+	1, sample\organize\menus\mainmenu.mnx,,,, 1994-03-11,,,, !READONLY,, sample\organize\menus\mainmenu.mnx,,,, 7670,,,,, !VITAL
+	1, sample\organize\family.pjx,,,, 1994-03-11,,,, !READONLY,, sample\organize\family.pjx,,,, 5786,,,,, !VITAL
+	1, sample\organize\dbfs\letters.fpt,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\letters.fpt,,,, 4546,,,,, !VITAL
+	1, sample\organize\dbfs\credcard.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\credcard.dbf,,,, 3966,,,,, !VITAL
+	1, sample\organize\convert.pjt,,,, 1994-03-11,,,, !READONLY,, sample\organize\convert.pjt,,,, 5376,,,,, !VITAL
+	1, sample\organize\clients.pjx,,,, 1994-03-11,,,, !READONLY,, sample\organize\clients.pjx,,,, 5106,,,,, !VITAL
+	1, sample\organize\bmps\star.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\star.bmp,,,, 21026,,,,, !VITAL
+	1, sample\organize\accnts.pjx,,,, 1994-03-11,,,, !READONLY,, sample\organize\accnts.pjx,,,, 5786,,,,, !VITAL
+	1, sample\laser\transprt\tools\menu.mnx,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\menu.mnx,,,, 5738,,,,, !VITAL
+	1, sample\laser\transprt\tools\laserepo.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\laserepo.sct,,,, 5940,,,,, !VITAL
+	1, sample\laser\dosonly\tools\menu.mnx,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\menu.mnx,,,, 5738,,,,, !VITAL
+	1, sample\laser\dosonly\tools\laserepo.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\laserepo.scx,,,, 6292,,,,, !VITAL
+	1, sample\laser\dosonly\tools\goto.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\goto.scx,,,, 4800,,,,, !VITAL
+	1, sample\laser\dosonly\tools\goto.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\goto.sct,,,, 4917,,,,, !VITAL
+	1, sample\laser\dosonly\tools\addnew.scx,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\addnew.scx,,,, 4800,,,,, !VITAL
+	1, sample\laser\crosplat\tools\menu.mnx,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\menu.mnx,,,, 5876,,,,, !VITAL
+	1, sample\laser\crosplat\tools\laser.frt,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\laser.frt,,,, 7326,,,,, !VITAL
+	1, sample\laser\crosplat\tools\addnew.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\addnew.sct,,,, 5280,,,,, !VITAL
+	1, sample\laser\crosplat\laser.pjx,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\laser.pjx,,,, 5242,,,,, !VITAL
+	1, sample\dde\ddexl.sct,,,, 1994-03-11,,,, !READONLY,, sample\dde\ddexl.sct,,,, 3453,,,,, !VITAL
+	1, sample\dde\ddedata.xlm,,,, 1994-03-11,,,, !READONLY,, sample\dde\ddedata.xlm,,,, 2514,,,,, !VITAL
+	1, sample\dde\ddedata.scx,,,, 1994-03-11,,,, !READONLY,, sample\dde\ddedata.scx,,,, 4800,,,,, !VITAL
+	1, sample\catalog\salesman.lbx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesman.lbx,,,, 6392,,,,, !VITAL
+	1, sample\catalog\salesman.fpt,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesman.fpt,,,, 2855,,,,, !VITAL
+	1, sample\catalog\offices.frt,,,, 1994-03-11,,,, !READONLY,, sample\catalog\offices.frt,,,, 5056,,,,, !VITAL
+	1, sample\catalog\customer.lbx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\customer.lbx,,,, 6107,,,,, !VITAL
+	1, language\salesman.fpt,,,, 1994-03-11,,,, !READONLY,, language\salesman.fpt,,,, 2855,,,,, !VITAL
+	1, tutorial\step5.frt,,,, 1994-03-11,,,, !READONLY,, tutorial\step5.frt,,,, 8768,,,,, !VITAL
+	1, tutorial\step4.frt,,,, 1994-03-11,,,, !READONLY,, tutorial\step4.frt,,,, 4672,,,,, !VITAL
+	1, tutorial\offices.dbf,,,, 1994-03-11,,,, !READONLY,, tutorial\offices.dbf,,,, 862,,,,, !VITAL
+	1, tutorial\morereg.dbf,,,, 1994-03-11,,,, !READONLY,, tutorial\morereg.dbf,,,, 1434,,,,, !VITAL
+	1, sample\organize\reports\cli_list.frt,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\cli_list.frt,,,, 3923,,,,, !VITAL
+	1, sample\organize\reports\charges.frt,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\charges.frt,,,, 4608,,,,, !VITAL
+	1, sample\organize\organize.pjx,,,, 1994-03-11,,,, !READONLY,, sample\organize\organize.pjx,,,, 4290,,,,, !VITAL
+	1, sample\organize\menus\organize.mnx,,,, 1994-03-11,,,, !READONLY,, sample\organize\menus\organize.mnx,,,, 2978,,,,, !VITAL
+	1, sample\organize\menus\organize.mnt,,,, 1994-03-11,,,, !READONLY,, sample\organize\menus\organize.mnt,,,, 3190,,,,, !VITAL
+	1, sample\organize\menus\credinfo.mnx,,,, 1994-03-11,,,, !READONLY,, sample\organize\menus\credinfo.mnx,,,, 2012,,,,, !VITAL
+	1, sample\organize\menus\credinfo.mnt,,,, 1994-03-11,,,, !READONLY,, sample\organize\menus\credinfo.mnt,,,, 3817,,,,, !VITAL
+	1, sample\organize\menus\convmenu.mnx,,,, 1994-03-11,,,, !READONLY,, sample\organize\menus\convmenu.mnx,,,, 2288,,,,, !VITAL
+	1, sample\organize\menus\convmenu.mnt,,,, 1994-03-11,,,, !READONLY,, sample\organize\menus\convmenu.mnt,,,, 2258,,,,, !VITAL
+	1, sample\organize\dbfs\units.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\units.dbf,,,, 2714,,,,, !VITAL
+	1, sample\organize\dbfs\states.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\states.dbf,,,, 1271,,,,, !VITAL
+	1, sample\organize\dbfs\states.cdx,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\states.cdx,,,, 4096,,,,, !VITAL
+	1, sample\organize\dbfs\orguser.fpt,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\orguser.fpt,,,, 3136,,,,, !VITAL
+	1, sample\organize\dbfs\credcard.cdx,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\credcard.cdx,,,, 4608,,,,, !VITAL
+	1, sample\organize\dbfs\clients.cdx,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\clients.cdx,,,, 4096,,,,, !VITAL
+	1, sample\organize\dbfs\carduser.cdx,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\carduser.cdx,,,, 7680,,,,, !VITAL
+	1, sample\organize\convert.pjx,,,, 1994-03-11,,,, !READONLY,, sample\organize\convert.pjx,,,, 3202,,,,, !VITAL
+	1, sample\organize\bmps\reserve.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\reserve.bmp,,,, 2718,,,,, !VITAL
+	1, sample\ole\examples.sct,,,, 1994-03-11,,,, !READONLY,, sample\ole\examples.sct,,,, 2178,,,,, !VITAL
+	1, sample\laser\transprt\tools\laser.frt,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\laser.frt,,,, 1848,,,,, !VITAL
+	1, sample\laser\transprt\tools\addnew.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\addnew.sct,,,, 3640,,,,, !VITAL
+	1, sample\laser\transprt\laser.pjx,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\laser.pjx,,,, 3338,,,,, !VITAL
+	1, sample\laser\dosonly\tools\laserepo.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\laserepo.sct,,,, 3069,,,,, !VITAL
+	1, sample\laser\dosonly\tools\laser.frt,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\laser.frt,,,, 1848,,,,, !VITAL
+	1, sample\laser\dosonly\tools\addnew.sct,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\addnew.sct,,,, 1914,,,,, !VITAL
+	1, sample\laser\dosonly\laser.pjx,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\laser.pjx,,,, 3338,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\laserdsk.ico,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\laserdsk.ico,,,, 766,,,,, !VITAL
+	1, sample\dde\example.xls,,,, 1994-03-11,,,, !READONLY,, sample\dde\example.xls,,,, 1522,,,,, !VITAL
+	1, sample\dde\ddeword.sct,,,, 1994-03-11,,,, !READONLY,, sample\dde\ddeword.sct,,,, 3234,,,,, !VITAL
+	1, sample\dde\ddedata.pjx,,,, 1994-03-11,,,, !READONLY,, sample\dde\ddedata.pjx,,,, 1570,,,,, !VITAL
+	1, sample\catalog\sample.fpc,,,, 1994-03-11,,,, !READONLY,, sample\catalog\sample.fpc,,,, 2811,,,,, !VITAL
+	1, sample\catalog\salesrep.frt,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesrep.frt,,,, 4992,,,,, !VITAL
+	1, sample\catalog\salesman.pjx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesman.pjx,,,, 2658,,,,, !VITAL
+	1, sample\catalog\salesman.lbt,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesman.lbt,,,, 2304,,,,, !VITAL
+	1, sample\catalog\offices.dbf,,,, 1994-03-11,,,, !READONLY,, sample\catalog\offices.dbf,,,, 862,,,,, !VITAL
+	1, sample\catalog\offices.cdx,,,, 1994-03-11,,,, !READONLY,, sample\catalog\offices.cdx,,,, 7680,,,,, !VITAL
+	1, sample\catalog\maysales.fpq,,,, 1994-03-11,,,, !READONLY,, sample\catalog\maysales.fpq,,,, 1442,,,,, !VITAL
+	1, sample\catalog\invoices.qpr,,,, 1994-03-11,,,, !READONLY,, sample\catalog\invoices.qpr,,,, 3357,,,,, !VITAL
+	1, sample\catalog\invoices.frt,,,, 1994-03-11,,,, !READONLY,, sample\catalog\invoices.frt,,,, 4096,,,,, !VITAL
+	1, sample\catalog\inventry.frt,,,, 1994-03-11,,,, !READONLY,, sample\catalog\inventry.frt,,,, 3776,,,,, !VITAL
+	1, sample\catalog\customer.lbt,,,, 1994-03-11,,,, !READONLY,, sample\catalog\customer.lbt,,,, 2368,,,,, !VITAL
+	1, sample\catalog\custinv.fpq,,,, 1994-03-11,,,, !READONLY,, sample\catalog\custinv.fpq,,,, 2024,,,,, !VITAL
+	1, language\offices.dbf,,,, 1994-03-11,,,, !READONLY,, language\offices.dbf,,,, 862,,,,, !VITAL
+	1, tutorial\top.bmp,,,, 1994-03-11,,,, !READONLY,, tutorial\top.bmp,,,, 346,,,,, !VITAL
+	1, tutorial\step5.qpr,,,, 1994-03-11,,,, !READONLY,, tutorial\step5.qpr,,,, 618,,,,, !VITAL
+	1, tutorial\step4.qpr,,,, 1994-03-11,,,, !READONLY,, tutorial\step4.qpr,,,, 389,,,,, !VITAL
+	1, tutorial\step3.qpr,,,, 1994-03-11,,,, !READONLY,, tutorial\step3.qpr,,,, 310,,,,, !VITAL
+	1, tutorial\step3.frt,,,, 1994-03-11,,,, !READONLY,, tutorial\step3.frt,,,, 4288,,,,, !VITAL
+	1, tutorial\step2.qpr,,,, 1994-03-11,,,, !READONLY,, tutorial\step2.qpr,,,, 235,,,,, !VITAL
+	1, tutorial\step1.qpr,,,, 1994-03-11,,,, !READONLY,, tutorial\step1.qpr,,,, 150,,,,, !VITAL
+	1, tutorial\region.ico,,,, 1994-03-11,,,, !READONLY,, tutorial\region.ico,,,, 766,,,,, !VITAL
+	1, tutorial\prior.bmp,,,, 1994-03-11,,,, !READONLY,, tutorial\prior.bmp,,,, 286,,,,, !VITAL
+	1, tutorial\next.bmp,,,, 1994-03-11,,,, !READONLY,, tutorial\next.bmp,,,, 342,,,,, !VITAL
+	1, tutorial\controls.prg,,,, 1994-03-11,,,, !READONLY,, tutorial\controls.prg,,,, 272,,,,, !VITAL
+	1, tutorial\bottom.bmp,,,, 1994-03-11,,,, !READONLY,, tutorial\bottom.bmp,,,, 334,,,,, !VITAL
+	1, sample\organize\screens\tran.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\tran.sct,,,, 1292,,,,, !VITAL
+	1, sample\organize\screens\rest.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\rest.sct,,,, 1292,,,,, !VITAL
+	1, sample\organize\screens\packit.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\packit.sct,,,, 1237,,,,, !VITAL
+	1, sample\organize\screens\ohelp.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\ohelp.sct,,,, 1356,,,,, !VITAL
+	1, sample\organize\screens\oexit.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\oexit.sct,,,, 1166,,,,, !VITAL
+	1, sample\organize\screens\mapit.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\mapit.sct,,,, 975,,,,, !VITAL
+	1, sample\organize\screens\intro.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\intro.sct,,,, 1254,,,,, !VITAL
+	1, sample\organize\screens\fami.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\fami.sct,,,, 1292,,,,, !VITAL
+	1, sample\organize\screens\cred.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\cred.sct,,,, 1292,,,,, !VITAL
+	1, sample\organize\screens\clien.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\clien.sct,,,, 1292,,,,, !VITAL
+	1, sample\organize\screens\balance.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\balance.sct,,,, 1452,,,,, !VITAL
+	1, sample\organize\screens\alert.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\alert.sct,,,, 978,,,,, !VITAL
+	1, sample\organize\screens\accnt.sct,,,, 1994-03-11,,,, !READONLY,, sample\organize\screens\accnt.sct,,,, 1292,,,,, !VITAL
+	1, sample\organize\reports\users.qpr,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\users.qpr,,,, 233,,,,, !VITAL
+	1, sample\organize\reports\restaurs.frt,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\restaurs.frt,,,, 2259,,,,, !VITAL
+	1, sample\organize\reports\fam_list.lbt,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\fam_list.lbt,,,, 1664,,,,, !VITAL
+	1, sample\organize\reports\fam_list.frt,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\fam_list.frt,,,, 1875,,,,, !VITAL
+	1, sample\organize\reports\cli_list.lbt,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\cli_list.lbt,,,, 1728,,,,, !VITAL
+	1, sample\organize\reports\charges.qpr,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\charges.qpr,,,, 381, SYSTEM,,,, !VITAL
+	1, sample\organize\reports\cardnums.frt,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\cardnums.frt,,,, 2131,,,,, !VITAL
+	1, sample\organize\reports\cardlist.frt,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\cardlist.frt,,,, 3081,,,,, !VITAL
+	1, sample\organize\reports\act_info.frt,,,, 1994-03-11,,,, !READONLY,, sample\organize\reports\act_info.frt,,,, 2761,,,,, !VITAL
+	1, sample\organize\prgs\unload.prg,,,, 1994-03-11,,,, !READONLY,, sample\organize\prgs\unload.prg,,,, 67,,,,, !VITAL
+	1, sample\organize\dbfs\reports.fpt,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\reports.fpt,,,, 512,,,,, !VITAL
+	1, sample\organize\dbfs\reports.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\reports.dbf,,,, 526,,,,, !VITAL
+	1, sample\organize\dbfs\personal.fpt,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\personal.fpt,,,, 704,,,,, !VITAL
+	1, sample\organize\dbfs\orguser.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\orguser.dbf,,,, 554,,,,, !VITAL
+	1, sample\organize\dbfs\orguser.cdx,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\orguser.cdx,,,, 3072,,,,, !VITAL
+	1, sample\organize\dbfs\orghelp.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\orghelp.dbf,,,, 958,,,,, !VITAL
+	1, sample\organize\dbfs\letters.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\letters.dbf,,,, 406,,,,, !VITAL
+	1, sample\organize\dbfs\labels.fpt,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\labels.fpt,,,, 512,,,,, !VITAL
+	1, sample\organize\dbfs\labels.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\labels.dbf,,,, 266,,,,, !VITAL
+	1, sample\organize\dbfs\credcard.fpt,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\credcard.fpt,,,, 1152,,,,, !VITAL
+	1, sample\organize\dbfs\clients.fpt,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\clients.fpt,,,, 512,,,,, !VITAL
+	1, sample\organize\dbfs\carduser.dbf,,,, 1994-03-11,,,, !READONLY,, sample\organize\dbfs\carduser.dbf,,,, 790,,,,, !VITAL
+	1, sample\organize\bmps\weight.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\weight.bmp,,,, 1098,,,,, !VITAL
+	1, sample\organize\bmps\waiter.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\waiter.bmp,,,, 1518,,,,, !VITAL
+	1, sample\organize\bmps\volume.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\volume.bmp,,,, 1098,,,,, !VITAL
+	1, sample\organize\bmps\valet.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\valet.bmp,,,, 2718,,,,, !VITAL
+	1, sample\organize\bmps\uparrow.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\uparrow.bmp,,,, 418,,,,, !VITAL
+	1, sample\organize\bmps\top.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\top.bmp,,,, 346,,,,, !VITAL
+	1, sample\organize\bmps\time.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\time.bmp,,,, 1098,,,,, !VITAL
+	1, sample\organize\bmps\temp.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\temp.bmp,,,, 1098,,,,, !VITAL
+	1, sample\organize\bmps\speed.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\speed.bmp,,,, 1098,,,,, !VITAL
+	1, sample\organize\bmps\sendcard.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\sendcard.bmp,,,, 2718,,,,, !VITAL
+	1, sample\organize\bmps\rolladex.msk,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\rolladex.msk,,,, 1518,,,,, !VITAL
+	1, sample\organize\bmps\rolladex.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\rolladex.bmp,,,, 1518,,,,, !VITAL
+	1, sample\organize\bmps\prior.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\prior.bmp,,,, 286,,,,, !VITAL
+	1, sample\organize\bmps\next.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\next.bmp,,,, 342,,,,, !VITAL
+	1, sample\organize\bmps\locate.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\locate.bmp,,,, 374,,,,, !VITAL
+	1, sample\organize\bmps\length.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\length.bmp,,,, 1098,,,,, !VITAL
+	1, sample\organize\bmps\house.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\house.bmp,,,, 1518,,,,, !VITAL
+	1, sample\organize\bmps\help.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\help.bmp,,,, 1518,,,,, !VITAL
+	1, sample\organize\bmps\handi.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\handi.bmp,,,, 2718,,,,, !VITAL
+	1, sample\organize\bmps\fold.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\fold.bmp,,,, 1518,,,,, !VITAL
+	1, sample\organize\bmps\exit.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\exit.bmp,,,, 818,,,,, !VITAL
+	1, sample\organize\bmps\exchange.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\exchange.bmp,,,, 2718,,,,, !VITAL
+	1, sample\organize\bmps\dnarrow.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\dnarrow.bmp,,,, 418,,,,, !VITAL
+	1, sample\organize\bmps\dietary.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\dietary.bmp,,,, 2718,,,,, !VITAL
+	1, sample\organize\bmps\creditc.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\creditc.bmp,,,, 1518,,,,, !VITAL
+	1, sample\organize\bmps\credit.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\credit.bmp,,,, 1518,,,,, !VITAL
+	1, sample\organize\bmps\convert.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\convert.bmp,,,, 1518,,,,, !VITAL
+	1, sample\organize\bmps\conv.ico,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\conv.ico,,,, 766,,,,, !VITAL
+	1, sample\organize\bmps\close.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\close.bmp,,,, 1778,,,,, !VITAL
+	1, sample\organize\bmps\casual.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\casual.bmp,,,, 2718,,,,, !VITAL
+	1, sample\organize\bmps\bottom.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\bottom.bmp,,,, 334,,,,, !VITAL
+	1, sample\organize\bmps\book.msk,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\book.msk,,,, 1518,,,,, !VITAL
+	1, sample\organize\bmps\book.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\book.bmp,,,, 1518,,,,, !VITAL
+	1, sample\organize\bmps\area.bmp,,,, 1994-03-11,,,, !READONLY,, sample\organize\bmps\area.bmp,,,, 1098,,,,, !VITAL
+	1, sample\ole\oletable.dbf,,,, 1994-03-11,,,, !READONLY,, sample\ole\oletable.dbf,,,, 262,,,,, !VITAL
+	1, sample\ole\example7.prg,,,, 1994-03-11,,,, !READONLY,, sample\ole\example7.prg,,,, 319,,,,, !VITAL
+	1, sample\ole\example6.prg,,,, 1994-03-11,,,, !READONLY,, sample\ole\example6.prg,,,, 183,,,,, !VITAL
+	1, sample\ole\example5.prg,,,, 1994-03-11,,,, !READONLY,, sample\ole\example5.prg,,,, 53,,,,, !VITAL
+	1, sample\ole\example4.prg,,,, 1994-03-11,,,, !READONLY,, sample\ole\example4.prg,,,, 58,,,,, !VITAL
+	1, sample\ole\example3.prg,,,, 1994-03-11,,,, !READONLY,, sample\ole\example3.prg,,,, 146,,,,, !VITAL
+	1, sample\ole\example2.prg,,,, 1994-03-11,,,, !READONLY,, sample\ole\example2.prg,,,, 139,,,,, !VITAL
+	1, sample\ole\example1.prg,,,, 1994-03-11,,,, !READONLY,, sample\ole\example1.prg,,,, 198,,,,, !VITAL
+	1, sample\laser\transprt\tools\category.prg,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\tools\category.prg,,,, 527,,,,, !VITAL
+	1, sample\laser\transprt\programs\stars.prg,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\programs\stars.prg,,,, 36,,,,, !VITAL
+	1, sample\laser\transprt\programs\lasercat.prg,,,, 1994-03-11,,,, !READONLY,, sample\laser\transprt\programs\lasercat.prg,,,, 486,,,,, !VITAL
+	1, sample\laser\dosonly\tools\category.prg,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\tools\category.prg,,,, 527,,,,, !VITAL
+	1, sample\laser\dosonly\programs\stars.prg,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\programs\stars.prg,,,, 36,,,,, !VITAL
+	1, sample\laser\dosonly\programs\lasercat.prg,,,, 1994-03-11,,,, !READONLY,, sample\laser\dosonly\programs\lasercat.prg,,,, 486,,,,, !VITAL
+	1, sample\laser\crosplat\tools\category.prg,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\tools\category.prg,,,, 527,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\top-lrg.msk,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\top-lrg.msk,,,, 142,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\top-lrg.bmp,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\top-lrg.bmp,,,, 438,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\stars.prg,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\stars.prg,,,, 36,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\smaldisk.msk,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\smaldisk.msk,,,, 318,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\smaldisk.bmp,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\smaldisk.bmp,,,, 758,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\prev-lrg.msk,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\prev-lrg.msk,,,, 126,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\prev-lrg.bmp,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\prev-lrg.bmp,,,, 374,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\next-lrg.msk,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\next-lrg.msk,,,, 126,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\next-lrg.bmp,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\next-lrg.bmp,,,, 374,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\lasercat.prg,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\lasercat.prg,,,, 486,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\disk2.bmp,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\disk2.bmp,,,, 854,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\disk1.bmp,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\disk1.bmp,,,, 854,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\d-top.bmp,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\d-top.bmp,,,, 438,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\d-prev.bmp,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\d-prev.bmp,,,, 374,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\d-next.bmp,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\d-next.bmp,,,, 374,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\d-btm.bmp,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\d-btm.bmp,,,, 438,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\clapbd.bmp,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\clapbd.bmp,,,, 2358,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\btm-lrg.msk,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\btm-lrg.msk,,,, 142,,,,, !VITAL
+	1, sample\laser\crosplat\bmpsprgs\btm-lrg.bmp,,,, 1994-03-11,,,, !READONLY,, sample\laser\crosplat\bmpsprgs\btm-lrg.bmp,,,, 438,,,,, !VITAL
+	1, sample\dde\mergelst.dbf,,,, 1994-03-11,,,, !READONLY,, sample\dde\mergelst.dbf,,,, 371,,,,, !VITAL
+	1, sample\dde\ddedata.sct,,,, 1994-03-11,,,, !READONLY,, sample\dde\ddedata.sct,,,, 1110,,,,, !VITAL
+	1, sample\dde\ddedata.pjt,,,, 1994-03-11,,,, !READONLY,, sample\dde\ddedata.pjt,,,, 2176,,,,, !VITAL
+	1, sample\catalog\salesdat.qpr,,,, 1994-03-11,,,, !READONLY,, sample\catalog\salesdat.qpr,,,, 855,,,,, !VITAL
+
+[reqfiles]
+"prodfile" = 1, foxprow.exe,,,, 1994-03-11,,,,,, foxprow.exe,,,, 2498469, SYSTEM,,,,
+	1, catalog.app,,,, 1994-03-11,,,, !READONLY,, catalog.app,,,, 501360,,,,, !VITAL
+	1, wizards\wizard.app,,,, 1994-03-11,,,, !READONLY,, wizards\wizard.app,,,, 649573,,,,, !VITAL
+	1, transprt.prg,,,, 1994-03-11,,,, !READONLY,, transprt.prg,,,, 390203,,,,, !VITAL
+	1, wizards\wz_qform.app,,,, 1994-03-11,,,, !READONLY,, wizards\wz_qform.app,,,, 385375,,,,, !VITAL
+	1, wizards\wz_bquer.app,,,, 1994-03-11,,,, !READONLY,, wizards\wz_bquer.app,,,, 241578,,,,, !VITAL
+	1, genscrn.prg,,,, 1994-03-11,,,, !READONLY,, genscrn.prg,,,, 292613,,,,, !VITAL
+	1, migrate.app,,,, 1994-03-11,,,, !READONLY,, migrate.app,,,, 178538,,,,, !VITAL
+	1, foxapp.app,,,, 1994-03-11,,,, !READONLY,, foxapp.app,,,, 136311,,,,, !VITAL
+	1, genpd.app,,,, 1994-03-11,,,, !READONLY,, genpd.app,,,, 374351,,,,, !VITAL
+	1, wizards\wz_table.app,,,, 1994-03-11,,,, !READONLY,, wizards\wz_table.app,,,, 145187,,,,, !VITAL
+	1, pssqa.txt,,,, 1994-03-11, !DECOMPRESS,,, !READONLY,, pssqa.txt,,,, 42860,,,,, !VITAL
+	1, readme.txt,,,, 1994-03-11, !DECOMPRESS,,, !READONLY,, readme.txt,,,, 36666,,,,, !VITAL
+	1, wizards\wz_mmerg.app,,,, 1994-03-11,,,, !READONLY,, wizards\wz_mmerg.app,,,, 147785,,,,, !VITAL
+	1, wizards\wz_mail.app,,,, 1994-03-11,,,, !READONLY,, wizards\wz_mail.app,,,, 148579,,,,, !VITAL
+	1, foxtools.fll,,,, 1994-03-11,,,, !READONLY,, foxtools.fll,,,, 58530,,,,, !VITAL
+	1, wizards\wz_grepo.app,,,, 1994-03-11,,,, !READONLY,, wizards\wz_grepo.app,,,, 179564,,,,, !VITAL
+	1, foxapp\prgs\fxapcode.prg,,,, 1994-03-11,,,, !READONLY,, foxapp\prgs\fxapcode.prg,,,, 94588,,,,, !VITAL
+	1, foxapp\screens\appscx.sct,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\appscx.sct,,,, 62747,,,,, !VITAL
+	1, genmenu.prg,,,, 1994-03-11,,,, !READONLY,, genmenu.prg,,,, 57019,,,,, !VITAL
+	1, foxapp\screens\dbfselec.sct,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\dbfselec.sct,,,, 57896,,,,, !VITAL
+	1, foxpro.int,,,, 1994-03-11,,,, !READONLY,, foxpro.int,,,, 43187,,,,, !VITAL
+	1, beautify.app,,,, 1994-03-11,,,, !READONLY,, beautify.app,,,, 35898,,,,, !VITAL
+	1, psapi.fll,,,, 1994-03-11,,,, !READONLY,, psapi.fll,,,, 27668,,,,, !VITAL
+	1, driver2.fll,,,, 1994-03-11,,,, !READONLY,, driver2.fll,,,, 17876,,,,, !VITAL
+	1, foxapp\screens\relselec.sct,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\relselec.sct,,,, 32684,,,,, !VITAL
+	1, genxtab.prg,,,, 1994-03-11,,,, !READONLY,, genxtab.prg,,,, 29246,,,,, !VITAL
+	1, foxapp\screens\prtsetup.prg,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\prtsetup.prg,,,, 44986,,,,, !VITAL
+	1, reserved.fll,,,, 1994-03-11,,,, !READONLY,, reserved.fll,,,, 12764,,,,, !VITAL
+	1, foxapp\screens\appsrch.prg,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\appsrch.prg,,,, 37913,,,,, !VITAL
+	1, foxapp\menus\appmenu.prg,,,, 1994-03-11,,,, !READONLY,, foxapp\menus\appmenu.prg,,,, 34124,,,,, !VITAL
+	1, foxapp\screens\appsrch.sct,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\appsrch.sct,,,, 24276,,,,, !VITAL
+	1, foxfont.852,,,, 1994-03-11,,,, !READONLY,, foxfont.852,,,, 15872,,,,, !VITAL
+	1, foxfont.850,,,, 1994-03-11,,,, !READONLY,, foxfont.850,,,, 15872,,,,, !VITAL
+	1, foxfont.fon,,,, 1994-03-11,,,, !READONLY,, foxfont.fon,,,, 15872,,,,, !VITAL
+	1, foxapp\screens\prtopts.prg,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\prtopts.prg,,,, 32739,,,,, !VITAL
+	1, foxstart.app,,,, 1994-03-11,,,, !READONLY,, foxstart.app,,,, 13469,,,,, !VITAL
+	1, foxapp\screens\prtopts.sct,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\prtopts.sct,,,, 22619,,,,, !VITAL
+	1, foxapp\menus\appmenu.mnt,,,, 1994-03-11,,,, !READONLY,, foxapp\menus\appmenu.mnt,,,, 16169,,,,, !VITAL
+	1, wizards\wz_mrepo.app,,,, 1994-03-11,,,, !READONLY,, wizards\wz_mrepo.app,,,, 27067,,,,, !VITAL
+	1, foxapp\prgs\appproc.prg,,,, 1994-03-11,,,, !READONLY,, foxapp\prgs\appproc.prg,,,, 15082,,,,, !VITAL
+	1, foxapp\foxapp.pjt,,,, 1994-03-11,,,, !READONLY,, foxapp\foxapp.pjt,,,, 17088,,,,, !VITAL
+	1, foxapp\screens\getdest.prg,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\getdest.prg,,,, 26076,,,,, !VITAL
+	1, foxapp\screens\appscx.scx,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\appscx.scx,,,, 26061,,,,, !VITAL
+	1, foxapp\screens\prtsetup.scx,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\prtsetup.scx,,,, 20839,,,,, !VITAL
+	1, foxapp\screens\relselec.scx,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\relselec.scx,,,, 15244,,,,, !VITAL
+	1, foxapp\screens\getorder.prg,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\getorder.prg,,,, 18390,,,,, !VITAL
+	1, foxapp\screens\advance.scx,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\advance.scx,,,, 14871,,,,, !VITAL
+	1, wizards\wz_qrepo.app,,,, 1994-03-11,,,, !READONLY,, wizards\wz_qrepo.app,,,, 7227,,,,, !VITAL
+	1, foxapp\screens\prtsetup.sct,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\prtsetup.sct,,,, 14244,,,,, !VITAL
+	1, foxapp\screens\prtopts.scx,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\prtopts.scx,,,, 10395,,,,, !VITAL
+	1, foxapp\screens\dbfselec.scx,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\dbfselec.scx,,,, 10395,,,,, !VITAL
+	1, foxapp\screens\appsrch.scx,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\appsrch.scx,,,, 10768,,,,, !VITAL
+	1, foxapp\screens\getorder.scx,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\getorder.scx,,,, 8530,,,,, !VITAL
+	1, foxapp\screens\getdest.scx,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\getdest.scx,,,, 9276,,,,, !VITAL
+	1, foxapp\screens\cascdlg.scx,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\cascdlg.scx,,,, 8157,,,,, !VITAL
+	1, foxapp\screens\appctrl.scx,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\appctrl.scx,,,, 5919,,,,, !VITAL
+	1, foxapp\screens\appabout.scx,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\appabout.scx,,,, 7784,,,,, !VITAL
+	1, foxapp\screens\appabout.prg,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\appabout.prg,,,, 10220,,,,, !VITAL
+	1, foxapp\menus\appmenu.mnx,,,, 1994-03-11,,,, !READONLY,, foxapp\menus\appmenu.mnx,,,, 9188,,,,, !VITAL
+	1, foxapp\screens\getdest.sct,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\getdest.sct,,,, 6423,,,,, !VITAL
+	1, foxapp\foxapp.pjx,,,, 1994-03-11,,,, !READONLY,, foxapp\foxapp.pjx,,,, 5242,,,,, !VITAL
+	1, cpzero.prg,,,, 1994-03-11,,,, !READONLY,, cpzero.prg,,,, 3868,,,,, !VITAL
+	1, wizards\wizard.fpt,,,, 1994-03-11,,,, !READONLY,, wizards\wizard.fpt,,,, 2496,,,,, !VITAL
+	1, foxapp\screens\getorder.sct,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\getorder.sct,,,, 4799,,,,, !VITAL
+	1, foxapp\screens\cascdlg.sct,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\cascdlg.sct,,,, 5261,,,,, !VITAL
+	1, foxapp\screens\appctrl.sct,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\appctrl.sct,,,, 4964,,,,, !VITAL
+	1, foxapp\screens\advance.sct,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\advance.sct,,,, 5834,,,,, !VITAL
+	1, foxapp\prgs\putpanel.prg,,,, 1994-03-11,,,, !READONLY,, foxapp\prgs\putpanel.prg,,,, 2358,,,,, !VITAL
+	1, wizards\wizbmps\wzundo.bmp,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzundo.bmp,,,, 358,,,,, !VITAL
+	1, wizards\wizbmps\wztop.bmp,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wztop.bmp,,,, 358,,,,, !VITAL
+	1, wizards\wizbmps\wzsave.msk,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzsave.msk,,,, 142,,,,, !VITAL
+	1, wizards\wizbmps\wzsave.bmp,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzsave.bmp,,,, 358,,,,, !VITAL
+	1, wizards\wizbmps\wzprint.msk,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzprint.msk,,,, 142,,,,, !VITAL
+	1, wizards\wizbmps\wzprint.bmp,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzprint.bmp,,,, 358,,,,, !VITAL
+	1, wizards\wizbmps\wznext.bmp,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wznext.bmp,,,, 358,,,,, !VITAL
+	1, wizards\wizbmps\wznew.msk,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wznew.msk,,,, 142,,,,, !VITAL
+	1, wizards\wizbmps\wznew.bmp,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wznew.bmp,,,, 358,,,,, !VITAL
+	1, wizards\wizbmps\wzlocate.msk,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzlocate.msk,,,, 142,,,,, !VITAL
+	1, wizards\wizbmps\wzlocate.bmp,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzlocate.bmp,,,, 358,,,,, !VITAL
+	1, wizards\wizbmps\wzend.bmp,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzend.bmp,,,, 358,,,,, !VITAL
+	1, wizards\wizbmps\wzedit.msk,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzedit.msk,,,, 142,,,,, !VITAL
+	1, wizards\wizbmps\wzedit.bmp,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzedit.bmp,,,, 358,,,,, !VITAL
+	1, wizards\wizbmps\wzdelete.msk,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzdelete.msk,,,, 142,,,,, !VITAL
+	1, wizards\wizbmps\wzdelete.bmp,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzdelete.bmp,,,, 358,,,,, !VITAL
+	1, wizards\wizbmps\wzclose.msk,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzclose.msk,,,, 142,,,,, !VITAL
+	1, wizards\wizbmps\wzclose.bmp,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzclose.bmp,,,, 358,,,,, !VITAL
+	1, wizards\wizbmps\wzback.bmp,,,, 1994-03-11,,,, !READONLY,, wizards\wizbmps\wzback.bmp,,,, 358,,,,, !VITAL
+	1, wizards\wizard.dbf,,,, 1994-03-11,,,, !READONLY,, wizards\wizard.dbf,,,, 1225,,,,, !VITAL
+	1, foxrun.pif,,,, 1994-03-11,,,, !READONLY,, foxrun.pif,,,, 545,,,,, !VITAL
+	1, foxapp\screens\appabout.sct,,,, 1994-03-11,,,, !READONLY,, foxapp\screens\appabout.sct,,,, 1902,,,,, !VITAL
+	1, foxapp\prgs\appshell.prg,,,, 1994-03-11,,,, !READONLY,, foxapp\prgs\appshell.prg,,,, 416,,,,, !VITAL
+	1, foxapp\generic.prg,,,, 1994-03-11,,,, !READONLY,, foxapp\generic.prg,,,, 16,,,,, !VITAL
+	1, foxapp\foxapp.src,,,, 1994-03-11,,,, !READONLY,, foxapp\foxapp.src,,,, 24,,,,, !VITAL
+	1, fox.msk,,,, 1994-03-11,,,, !READONLY,,,,,, 166,,,,, !VITAL
+	1, fox.bmp,,,, 1994-03-11,,,, !READONLY,,,,,, 534,,,,, !VITAL
+	1, european.mem,,,, 1994-03-11,,,, !READONLY,, european.mem,,,, 577,,,,, !VITAL
+	1, foxdata.app,,, !COPY,,,,,, REMOVE,,,,, 0,,,,,
+	1, genxtab.fxp,,, !COPY,,,,,, REMOVE,,,,, 0,,,,,
+	1, transprt.fxp,,, !COPY,,,,,, REMOVE,,,,, 0,,,,,
+	1, genmenu.fxp,,, !COPY,,,,,, REMOVE,,,,, 0,,,,,
+	1, genscrn.fxp,,, !COPY,,,,,, REMOVE,,,,, 0,,,,,

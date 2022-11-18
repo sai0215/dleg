@@ -1,0 +1,231 @@
+ 
+  
+ 
+	  Client  	     Numero    	Date sai	                Produit               	    Dimensions   	 Code a barres 	 Qt‚ fact. 	  Chp calcul‚ A 	  C.A HT Client 	 
+ 
+	0001EMA   	00017/000000243	17/03/98	ADRIAN      	GILET MANCHES LONGUES    	ASSO  0M         	0000000070263  	          4	           36.69	          146.76	 
+	0001EMA   	00017/000000243	17/03/98	ADRIAN      	GILET MANCHES LONGUES    	ASSO  1M         	0000000070287  	          6	           36.69	          220.14	 
+	0001EMA   	00017/000000243	17/03/98	ADRIAN      	GILET MANCHES LONGUES    	ASSO  3M         	0000000070294  	          6	           36.69	          220.14	 
+	0001EMA   	00017/000000243	17/03/98	ADRIAN      	GILET MANCHES LONGUES    	ASSO  6M         	0000000070300  	          8	           36.69	          293.52	 
+	0001EMA   	00017/000000243	17/03/98	ADRIAN      	GILET MANCHES LONGUES    	ASSO  12M        	0000000070270  	          8	           36.69	          293.52	 
+	0001EMA   	00017/000000243	17/03/98	AENEAS      	VEILLEUSE MUSICALE       	ASSO  TU         	0000000015974  	          3	           80.23	          240.69	 
+	0001EMA   	00017/000000243	17/03/98	AIDAN       	COMBINAISON MANCHES LONGU	ASSO  0M         	0000000087001  	          4	           49.13	          196.52	 
+	0001EMA   	00017/000000243	17/03/98	AIDAN       	COMBINAISON MANCHES LONGU	ASSO  1M         	0000000087025  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	AIDAN       	COMBINAISON MANCHES LONGU	ASSO  3M         	0000000087032  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	AIDAN       	COMBINAISON MANCHES LONGU	ASSO  6M         	0000000087049  	          8	           49.13	          393.04	 
+	0001EMA   	00017/000000243	17/03/98	AIDAN       	COMBINAISON MANCHES LONGU	ASSO  12M        	0000000087018  	          8	           49.13	          393.04	 
+	0001EMA   	00017/000000243	17/03/98	AJAY        	TAPIS COTON CARTE A JOUER	ASSO  TU         	0000000032049  	          4	          273.01	         1092.04	 
+	0001EMA   	00017/000000243	17/03/98	AMBROSE     	GILET GRAND COL EN POINTE	ASSO  0M         	0000000069557  	          4	           36.69	          146.76	 
+	0001EMA   	00017/000000243	17/03/98	AMBROSE     	GILET GRAND COL EN POINTE	ASSO  1M         	0000000069571  	          6	           36.69	          220.14	 
+	0001EMA   	00017/000000243	17/03/98	AMBROSE     	GILET GRAND COL EN POINTE	ASSO  3M         	0000000069588  	          6	           36.69	          220.14	 
+	0001EMA   	00017/000000243	17/03/98	AMBROSE     	GILET GRAND COL EN POINTE	ASSO  6M         	0000000069595  	          8	           36.69	          293.52	 
+	0001EMA   	00017/000000243	17/03/98	AMBROSE     	GILET GRAND COL EN POINTE	ASSO  12M        	0000000069564  	          8	           36.69	          293.52	 
+	0001EMA   	00017/000000243	17/03/98	AMRIT       	COMBINAISON JAMBES LONGUE	ASSO  0M         	0000000069601  	          4	           49.13	          196.52	 
+	0001EMA   	00017/000000243	17/03/98	AMRIT       	COMBINAISON JAMBES LONGUE	ASSO  1M         	0000000069625  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	AMRIT       	COMBINAISON JAMBES LONGUE	ASSO  3M         	0000000069649  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	AMRIT       	COMBINAISON JAMBES LONGUE	ASSO  6M         	0000000069656  	          8	           49.13	          393.04	 
+	0001EMA   	00017/000000243	17/03/98	AMRIT       	COMBINAISON JAMBES LONGUE	ASSO  12M        	0000000069618  	          8	           49.13	          393.04	 
+	0001EMA   	00017/000000243	17/03/98	ANETON      	JOUET EN BOIS ANE        	ASSO  TU         	0109657440662  	          1	          123.76	          123.76	 
+	0001EMA   	00017/000000243	17/03/98	ANGELOT     	ENTOURAGE DE LIT         	ASSO  TU         	0043777440662  	          8	           92.66	          741.28	 
+	0001EMA   	00017/000000243	17/03/98	ANGELOTBIS  	ENTOURAGE DE LIT         	U000  ASSO  TU   	0000000100038  	          8	           92.66	          741.28	 
+	0001EMA   	00017/000000243	17/03/98	ANONA       	SERVIETTE DE BAIN A VOLAN	ASSO  TU         	0130807440669  	         10	           74.01	          740.10	 
+	0001EMA   	00017/000000243	17/03/98	ANONABIS    	SERVIETTE DE BAIN A VOLAN	U000  ASSO  TU   	0000000098939  	         10	           74.01	          740.10	 
+	0001EMA   	00017/000000243	17/03/98	APIS        	CARRE EPONGE GANSE TISSU 	ASSO  TU         	0130817440666  	         10	           74.01	          740.10	 
+	0001EMA   	00017/000000243	17/03/98	APISBIS     	CARRE EPONGE GANSE TISSU 	U000  ASSO  TU   	0000000099011  	         10	           74.01	          740.10	 
+	0001EMA   	00017/000000243	17/03/98	ARCHY       	TOISE                    	ASSO  TU         	0128347440669  	          1	           80.23	           80.23	 
+	0001EMA   	00017/000000243	17/03/98	ASTORIA     	CORBEILLE TOILETTE       	ASSO  TU         	0046727440668  	          1	          136.82	          136.82	 
+	0001EMA   	00017/000000243	17/03/98	ASTORIABIS  	CORBEILLE TOILETTE       	U000  ASSO  TU   	0000000100229  	          1	          136.82	          136.82	 
+	0001EMA   	00017/000000243	17/03/98	ASTUCIEUX   	PUERICULTURE KANGOUROU   	ASSO  TU         	0078617440663  	          2	          112.05	          224.10	 
+	0001EMA   	00017/000000243	17/03/98	AUDE        	DORS BIEN                	ASSO  0M         	0000000089968  	          4	           52.86	          211.44	 
+	0001EMA   	00017/000000243	17/03/98	AUDE        	DORS BIEN                	ASSO  1M         	0000000089982  	          6	           52.86	          317.16	 
+	0001EMA   	00017/000000243	17/03/98	AUDE        	DORS BIEN                	ASSO  3M         	0000000089999  	          6	           52.86	          317.16	 
+	0001EMA   	00017/000000243	17/03/98	AUDE        	DORS BIEN                	ASSO  6M         	0000000090001  	          8	           52.86	          422.88	 
+	0001EMA   	00017/000000243	17/03/98	AUDE        	DORS BIEN                	ASSO  12M        	0000000089975  	          8	           52.86	          422.88	 
+	0001EMA   	00017/000000243	17/03/98	BABOUM      	BANDEAU FRUIT PLASTIQUE  	ASSO  TU         	0000000089357  	          5	           18.04	           90.20	 
+	0001EMA   	00017/000000243	17/03/98	BALANCEMOI  	JOUET EN BOIS LUTIN      	ASSO  TU         	0109597440661  	          1	           86.44	           86.44	 
+	0001EMA   	00017/000000243	17/03/98	BALU        	CALECON                  	ASSO  6M         	0000000070607  	          6	           24.25	          145.50	 
+	0001EMA   	00017/000000243	17/03/98	BALU        	CALECON                  	ASSO  12M        	0000000070577  	          6	           24.25	          145.50	 
+	0001EMA   	00017/000000243	17/03/98	BARRY       	TEE SHIRT MANCHES LONGUES	ASSO  6M         	0000000070553  	          6	           24.25	          145.50	 
+	0001EMA   	00017/000000243	17/03/98	BARRY       	TEE SHIRT MANCHES LONGUES	ASSO  12M        	0000000070522  	          6	           24.25	          145.50	 
+	0001EMA   	00017/000000243	17/03/98	BAULE       	OURS JOGGING             	ASSO  TU         	0000000079617  	          1	           55.35	           55.35	 
+	0001EMA   	00017/000000243	17/03/98	BEDTIME     	DORS BIEN                	ASSO  0M         	0000000090063  	          4	           49.13	          196.52	 
+	0001EMA   	00017/000000243	17/03/98	BEDTIME     	DORS BIEN                	ASSO  1M         	0000000090087  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	BEDTIME     	DORS BIEN                	ASSO  3M         	0000000090094  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	BEDTIME     	DORS BIEN                	ASSO  6M         	0000000090100  	          8	           49.13	          393.04	 
+	0001EMA   	00017/000000243	17/03/98	BEDTIME     	DORS BIEN                	ASSO  12M        	0000000090070  	          8	           49.13	          393.04	 
+	0001EMA   	00017/000000243	17/03/98	BEIGNETSBIS 	COUFFIN AVEC HABILLAGE   	U000  ASSO  TU   	0000000100625  	          3	          248.14	          744.42	 
+	0001EMA   	00017/000000243	17/03/98	BERBECHE    	BURNOUS EPONGE           	ASSO  TU         	0130797440663  	          9	           74.01	          666.09	 
+	0001EMA   	00017/000000243	17/03/98	BERBECHEBIS 	BURNOUS EPONGE           	U000  BLAN  TU   	0000000100359  	          9	           74.01	          666.09	 
+	0001EMA   	00017/000000243	17/03/98	BERTRAM     	CHEMISIER                	ASSO  6M         	0000000070508  	          6	           24.88	          149.28	 
+	0001EMA   	00017/000000243	17/03/98	BERTRAM     	CHEMISIER                	ASSO  12M        	0000000070478  	          6	           24.88	          149.28	 
+	0001EMA   	00017/000000243	17/03/98	BEVIS       	CARDIGAN COL CARRE EN COT	ASSO  0M         	0000000031158  	          4	           49.13	          196.52	 
+	0001EMA   	00017/000000243	17/03/98	BEVIS       	CARDIGAN COL CARRE EN COT	ASSO  1M         	0000000031172  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	BEVIS       	CARDIGAN COL CARRE EN COT	ASSO  3M         	0000000031189  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	BEVIS       	CARDIGAN COL CARRE EN COT	ASSO  6M         	0000000031196  	          8	           49.13	          393.04	 
+	0001EMA   	00017/000000243	17/03/98	BEVIS       	CARDIGAN COL CARRE EN COT	ASSO  12M        	0000000031165  	          8	           49.13	          393.04	 
+	0001EMA   	00017/000000243	17/03/98	BHARAT      	SALOPETTE                	ASSO  6M         	0000000070454  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	BHARAT      	SALOPETTE                	ASSO  12M        	0000000070423  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	BIBCHAUD    	CHAUFFE-BIBERON          	ASSO  TU         	0084037440664  	          3	          185.07	          555.21	 
+	0001EMA   	00017/000000243	17/03/98	BIBELUCHE   	ANIMAL BIBERON           	ASSO  TU         	0104137440668  	          3	           92.66	          277.98	 
+	0001EMA   	00017/000000243	17/03/98	BIBGRAND    	BIBERON 240ML            	ASSO  TU         	0125167440664  	         30	           16.58	          497.40	 
+	0001EMA   	00017/000000243	17/03/98	BIBPETIT    	BIBERON 150ML            	ASSO  TU         	0125157440667  	         30	           14.59	          437.70	 
+	0001EMA   	00017/000000243	17/03/98	BIBSTE      	STERILISATEUR+6 BIB      	ASSO  TU         	0084057440668  	          4	          390.71	         1562.84	 
+	0001EMA   	00017/000000243	17/03/98	BLONDY      	BANDEAU TISSU SIAT       	ASSO  TA         	0000000089456  	          5	           18.04	           90.20	 
+	0001EMA   	00017/000000243	17/03/98	BOTTLES     	BIBERONS 125ML           	ASSO  TU         	0063157440662  	         30	            9.33	          279.90	 
+	0001EMA   	00017/000000243	17/03/98	BOTTLES'2   	BIBERON 250ML            	ASSO  TU         	0063167440669  	          3	           11.82	           35.46	 
+	0001EMA   	00017/000000243	17/03/98	BOYD        	ROBE MANCHES COURTES     	ASSO  6M         	0000000070409  	          6	           52.86	          317.16	 
+	0001EMA   	00017/000000243	17/03/98	BOYD        	ROBE MANCHES COURTES     	ASSO  12M        	0000000070379  	          6	           52.86	          317.16	 
+	0001EMA   	00017/000000243	17/03/98	BROK        	BRACELET HOCHET          	ASSO  TU         	0130147440664  	          2	           24.25	           48.50	 
+	0001EMA   	00017/000000243	17/03/98	CADREZ      	CADRE                    	ASSO  TU         	0072037440661  	          2	           36.69	           73.38	 
+	0001EMA   	00017/000000243	17/03/98	CALIFORNIE  	CHAPEAU MODELE ZOE AVEC P	ASSO  TA         	0000000089418  	         20	           30.47	          609.40	 
+	0001EMA   	00017/000000243	17/03/98	CALME       	DRAP HOUSSE 1PLACE       	ASSO  TU         	0043787440669  	         50	           55.35	         2767.50	 
+	0001EMA   	00017/000000243	17/03/98	CASIMIR     	DORS BIEN                	ASSO  0M         	0000000090018  	          4	           49.13	          196.52	 
+	0001EMA   	00017/000000243	17/03/98	CASIMIR     	DORS BIEN                	ASSO  1M         	0000000090032  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	CASIMIR     	DORS BIEN                	ASSO  3M         	0000000090049  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	CASIMIR     	DORS BIEN                	ASSO  6M         	0000000090056  	          8	           49.13	          393.04	 
+	0001EMA   	00017/000000243	17/03/98	CASIMIR     	DORS BIEN                	ASSO  12M        	0000000090025  	          8	           49.13	          393.04	 
+	0001EMA   	00017/000000243	17/03/98	CHAMBOULE   	JOUET EN BOIS CHAT LAIT  	ASSO  TU         	0109637440668  	          1	           67.79	           67.79	 
+	0001EMA   	00017/000000243	17/03/98	CHIENTHEO   	CHIEN EPONGE 10CM        	ASSO  TU         	0127907440668  	          3	           30.47	           91.41	 
+	0001EMA   	00017/000000243	17/03/98	COFFRY      	JOUET BOIS DS SA BOITE   	ASSO  TU         	0100867440664  	          1	          105.10	          105.10	 
+	0001EMA   	00017/000000243	17/03/98	COLLEMOI    	JOUET EN BOIS            	ASSO  TU         	0109687440663  	          1	          111.32	          111.32	 
+	0001EMA   	00017/000000243	17/03/98	COLPIQUE    	BRASSIERE COL PIQUE BRODE	ASSO  0M         	0130724560662  	          4	           36.69	          146.76	 
+	0001EMA   	00017/000000243	17/03/98	COLPIQUE    	BRASSIERE COL PIQUE BRODE	ASSO  1M         	0130724570661  	          6	           36.69	          220.14	 
+	0001EMA   	00017/000000243	17/03/98	COLPIQUE    	BRASSIERE COL PIQUE BRODE	ASSO  3M         	0130724580660  	          6	           36.69	          220.14	 
+	0001EMA   	00017/000000243	17/03/98	COLPIQUE    	BRASSIERE COL PIQUE BRODE	ASSO  6M         	0130724590669  	          4	           36.69	          146.76	 
+	0001EMA   	00017/000000243	17/03/98	COLPIQUE    	BRASSIERE COL PIQUE BRODE	ASSO  12M        	0130724600665  	          2	           36.69	           73.38	 
+	0001EMA   	00017/000000243	17/03/98	COUSSIN     	COUSSIN PETIT LIT        	ASSO  TU         	0044737440661  	         51	           15.55	          793.05	 
+	0001EMA   	00017/000000243	17/03/98	DEUX        	PEIGNOIR DOUBLE FACE     	ASSO  T1         	0130785290669  	          2	          105.10	          210.20	 
+	0001EMA   	00017/000000243	17/03/98	DEUX        	PEIGNOIR DOUBLE FACE     	ASSO  T2         	0130785300665  	          1	          105.10	          105.10	 
+	0001EMA   	00017/000000243	17/03/98	DEUXBIS     	PEIGNOIR DOUBLE FACE     	U000  BLAN  T1   	0000000100632  	          2	          105.10	          210.20	 
+	0001EMA   	00017/000000243	17/03/98	DEUXBIS     	PEIGNOIR DOUBLE FACE     	U000  BLAN  T2   	0000000100649  	          1	          105.10	          105.10	 
+	0001EMA   	00017/000000243	17/03/98	DOUDODO     	DORS BIEN                	ASSO  0M         	0000000093651  	          4	           52.86	          211.44	 
+	0001EMA   	00017/000000243	17/03/98	DOUDODO     	DORS BIEN                	ASSO  1M         	0000000093675  	          6	           52.86	          317.16	 
+	0001EMA   	00017/000000243	17/03/98	DOUDODO     	DORS BIEN                	ASSO  3M         	0000000093682  	          6	           52.86	          317.16	 
+	0001EMA   	00017/000000243	17/03/98	DOUDODO     	DORS BIEN                	ASSO  6M         	0000000093699  	          8	           52.86	          422.88	 
+	0001EMA   	00017/000000243	17/03/98	DOUDODO     	DORS BIEN                	ASSO  12M        	0000000093668  	          8	           52.86	          422.88	 
+	0001EMA   	00017/000000243	17/03/98	DOUILLET    	COMBICOURTE              	ASSO  000M       	0000000093736  	          2	           42.91	           85.82	 
+	0001EMA   	00017/000000243	17/03/98	DOUILLET    	COMBICOURTE              	ASSO  1M         	0000000093750  	          6	           42.91	          257.46	 
+	0001EMA   	00017/000000243	17/03/98	DOUILLET    	COMBICOURTE              	ASSO  3M         	0000000093767  	          6	           42.91	          257.46	 
+	0001EMA   	00017/000000243	17/03/98	DOUILLET    	COMBICOURTE              	ASSO  6M         	0000000093774  	          8	           42.91	          343.28	 
+	0001EMA   	00017/000000243	17/03/98	DOUILLET    	COMBICOURTE              	ASSO  12M        	0000000093743  	          8	           42.91	          343.28	 
+	0001EMA   	00017/000000243	17/03/98	EDUKA       	TAPIS EVEIL              	ASSO  TU         	0107807440661  	          3	          105.10	          315.30	 
+	0001EMA   	00017/000000243	17/03/98	FLIRT       	COUVERTURE               	ASSO  TU         	0095887440667  	          9	           55.35	          498.15	 
+	0001EMA   	00017/000000243	17/03/98	FRIZDO      	FRISE DORMEUR            	ORAN  TU         	0000000068956  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	FRIZDO      	FRISE DORMEUR            	VERT  TU         	0000000068963  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	FRIZFERM    	FRISE VACHE              	BLEU  TU         	0000000068918  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	FRIZFERM    	FRISE VACHE              	JAUN  TU         	0000000068925  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	FRIZOURS    	FRISE OURS               	ECRU  TU         	0000000068833  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	FRIZOURS    	FRISE OURS               	PAIL  TU         	0000000068840  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	GILDAS      	ENSEMBLE MARINIER + CALEC	ASSO  0M         	0000000086318  	          2	           49.13	           98.26	 
+	0001EMA   	00017/000000243	17/03/98	GILDAS      	ENSEMBLE MARINIER + CALEC	ASSO  1M         	0000000086332  	          4	           49.13	          196.52	 
+	0001EMA   	00017/000000243	17/03/98	GILDAS      	ENSEMBLE MARINIER + CALEC	ASSO  3M         	0000000086349  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	GILDAS      	ENSEMBLE MARINIER + CALEC	ASSO  6M         	0000000086356  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	GIROFLE     	GUIMPE                   	ASSO  0M         	0000000079389  	          6	           36.69	          220.14	 
+	0001EMA   	00017/000000243	17/03/98	GIROFLE     	GUIMPE                   	ASSO  1M         	0000000079402  	          9	           36.69	          330.21	 
+	0001EMA   	00017/000000243	17/03/98	GIROFLE     	GUIMPE                   	ASSO  3M         	0000000079419  	          9	           36.69	          330.21	 
+	0001EMA   	00017/000000243	17/03/98	GIROFLE     	GUIMPE                   	ASSO  6M         	0000000079426  	         12	           36.69	          440.28	 
+	0001EMA   	00017/000000243	17/03/98	GIROFLE     	GUIMPE                   	ASSO  12M        	0000000079396  	         12	           36.69	          440.28	 
+	0001EMA   	00017/000000243	17/03/98	GMRUBAN     	OURS EN PELUCHE          	ASSO  TU         	0000000079501  	          4	           83.96	          335.84	 
+	0001EMA   	00017/000000243	17/03/98	GRIFFE      	CALECON                  	ASSO  6M         	0000000078764  	          6	           34.20	          205.20	 
+	0001EMA   	00017/000000243	17/03/98	GRIFFE      	CALECON                  	ASSO  12M        	0000000078733  	          6	           34.20	          205.20	 
+	0001EMA   	00017/000000243	17/03/98	HANSA       	COMBINAISON              	ASSO  0M         	0000000079020  	          2	           49.13	           98.26	 
+	0001EMA   	00017/000000243	17/03/98	HANSA       	COMBINAISON              	ASSO  1M         	0000000079044  	          3	           49.13	          147.39	 
+	0001EMA   	00017/000000243	17/03/98	HANSA       	COMBINAISON              	ASSO  3M         	0000000079051  	          3	           49.13	          147.39	 
+	0001EMA   	00017/000000243	17/03/98	HANSA       	COMBINAISON              	ASSO  6M         	0000000079068  	          4	           49.13	          196.52	 
+	0001EMA   	00017/000000243	17/03/98	HANSA       	COMBINAISON              	ASSO  12M        	0000000079037  	          4	           49.13	          196.52	 
+	0001EMA   	00017/000000243	17/03/98	HECTORINE   	TEE-SHIRT MANCHES LONGUES	ASSO  6M         	0000000078863  	          6	           34.20	          205.20	 
+	0001EMA   	00017/000000243	17/03/98	HECTORINE   	TEE-SHIRT MANCHES LONGUES	ASSO  12M        	0000000078832  	          6	           34.20	          205.20	 
+	0001EMA   	00017/000000243	17/03/98	HERCULE     	BLOUSON ZIP              	ASSO  0M         	0000000078979  	          2	           52.86	          105.72	 
+	0001EMA   	00017/000000243	17/03/98	HERCULE     	BLOUSON ZIP              	ASSO  1M         	0000000078993  	          3	           52.86	          158.58	 
+	0001EMA   	00017/000000243	17/03/98	HERCULE     	BLOUSON ZIP              	ASSO  3M         	0000000079006  	          3	           52.86	          158.58	 
+	0001EMA   	00017/000000243	17/03/98	HERCULE     	BLOUSON ZIP              	ASSO  6M         	0000000079013  	          4	           52.86	          211.44	 
+	0001EMA   	00017/000000243	17/03/98	HERCULE     	BLOUSON ZIP              	ASSO  12M        	0000000078986  	          4	           52.86	          211.44	 
+	0001EMA   	00017/000000243	17/03/98	HOBO        	ENSEMBLE CALECON         	ASSO  0M         	0000000078771  	          2	           61.57	          123.14	 
+	0001EMA   	00017/000000243	17/03/98	HOBO        	ENSEMBLE CALECON         	ASSO  1M         	0000000078795  	          3	           61.57	          184.71	 
+	0001EMA   	00017/000000243	17/03/98	HOBO        	ENSEMBLE CALECON         	ASSO  3M         	0000000078801  	          3	           61.57	          184.71	 
+	0001EMA   	00017/000000243	17/03/98	HOBO        	ENSEMBLE CALECON         	ASSO  6M         	0000000078818  	          2	           61.57	          123.14	 
+	0001EMA   	00017/000000243	17/03/98	HOBO        	ENSEMBLE CALECON         	ASSO  12M        	0000000078788  	          2	           61.57	          123.14	 
+	0001EMA   	00017/000000243	17/03/98	IMANE       	VESTE                    	ASSO  0M         	0000000078573  	          4	           42.91	          171.64	 
+	0001EMA   	00017/000000243	17/03/98	IMANE       	VESTE                    	ASSO  1M         	0000000078597  	          6	           42.91	          257.46	 
+	0001EMA   	00017/000000243	17/03/98	IMANE       	VESTE                    	ASSO  3M         	0000000078603  	          6	           42.91	          257.46	 
+	0001EMA   	00017/000000243	17/03/98	IMANE       	VESTE                    	ASSO  6M         	0000000078610  	          8	           42.91	          343.28	 
+	0001EMA   	00017/000000243	17/03/98	IMANE       	VESTE                    	ASSO  12M        	0000000078580  	          8	           42.91	          343.28	 
+	0001EMA   	00017/000000243	17/03/98	ISURI       	MARINIERE                	ASSO  0M         	0000000079075  	          2	           30.47	           60.94	 
+	0001EMA   	00017/000000243	17/03/98	ISURI       	MARINIERE                	ASSO  1M         	0000000079099  	          3	           30.47	           91.41	 
+	0001EMA   	00017/000000243	17/03/98	ISURI       	MARINIERE                	ASSO  3M         	0000000079105  	          3	           30.47	           91.41	 
+	0001EMA   	00017/000000243	17/03/98	ISURI       	MARINIERE                	ASSO  6M         	0000000079112  	          4	           30.47	          121.88	 
+	0001EMA   	00017/000000243	17/03/98	ISURI       	MARINIERE                	ASSO  12M        	0000000079082  	          4	           30.47	          121.88	 
+	0001EMA   	00017/000000243	17/03/98	LANGYBIS    	SAC A LANGER             	U000  ASSO  TU   	0000000100588  	          8	           80.23	          641.84	 
+	0001EMA   	00017/000000243	17/03/98	LESPOIGNEES 	LOT DE 8 POIGNEE ESCARGOT	JAUN  TU         	0000000075015  	          2	          179.73	          359.46	 
+	0001EMA   	00017/000000243	17/03/98	LESPOIGNEES 	LOT DE 8 POIGNEE ESCARGOT	ORAN  TU         	0000000075022  	          1	          179.73	          179.73	 
+	0001EMA   	00017/000000243	17/03/98	LESPOIGNEES 	LOT DE 8 POIGNEE ESCARGOT	ROUG  TU         	0000000075039  	          2	          179.73	          359.46	 
+	0001EMA   	00017/000000243	17/03/98	LESPOIGNEES 	LOT DE 8 POIGNEE ESCARGOT	BLEU  TU         	0000000075008  	          2	          179.73	          359.46	 
+	0001EMA   	00017/000000243	17/03/98	LESPOIGNEES 	LOT DE 8 POIGNEE ESCARGOT	VERT  TU         	0000000075046  	          1	          179.73	          179.73	 
+	0001EMA   	00017/000000243	17/03/98	LESPOIGNEES 	LOT DE 8 POIGNEE ESCARGOT	BLAN  TU         	0000000075145  	          1	          179.73	          179.73	 
+	0001EMA   	00017/000000243	17/03/98	LILI        	VAISSELLE 3 PCES FAIENCE 	ASSO  TU         	0056757440668  	          6	           61.57	          369.42	 
+	0001EMA   	00017/000000243	17/03/98	LIPOP       	TABLE A LANGER           	ASSO  TU         	0000000091657  	         12	          450.41	         5404.92	 
+	0001EMA   	00017/000000243	17/03/98	LIVA        	LIT APPOINT              	ASSO  TU         	0104147440665  	          4	          254.36	         1017.44	 
+	0001EMA   	00017/000000243	17/03/98	LIVE        	BOITE A MUSIQUE          	ASSO  TU         	0071997440667  	          2	           61.57	          123.14	 
+	0001EMA   	00017/000000243	17/03/98	MANORETTE   	POUSSETTE + APPUIE MAIN  	ASSO  TU         	0000000090896  	          3	          569.82	         1709.46	 
+	0001EMA   	00017/000000243	17/03/98	MARSH       	LITERIE PARRURE COQUELICO	ASSO  TU         	0067947440665  	          1	          142.42	          142.42	 
+	0001EMA   	00017/000000243	17/03/98	MELISS      	SAC A LANGER             	ASSO  TU         	0123227440661  	         10	          171.81	         1718.10	 
+	0001EMA   	00017/000000243	17/03/98	MELODY      	TEE-SHIRT                	ASSO  6M         	0000000093897  	          6	           30.47	          182.82	 
+	0001EMA   	00017/000000243	17/03/98	MELODY      	TEE-SHIRT                	ASSO  12M        	0000000093866  	          6	           30.47	          182.82	 
+	0001EMA   	00017/000000243	17/03/98	METRONOME   	EDREDON EN PIQUE         	ASSO  TU         	0043607440664  	          7	          105.10	          735.70	 
+	0001EMA   	00017/000000243	17/03/98	METRONOMEBIS	EDREDON EN PIQUE         	U000  ASSO  TU   	0000000099912  	          8	          105.10	          840.80	 
+	0001EMA   	00017/000000243	17/03/98	MITON       	CADRE "MOUTON"           	ASSO  TU         	0128357440666  	          1	           61.57	           61.57	 
+	0001EMA   	00017/000000243	17/03/98	MIXPE       	MIXEUR-PESEUR            	ASSO  TU         	0084157440667  	          3	          397.35	         1192.05	 
+	0001EMA   	00017/000000243	17/03/98	MMRUBAN     	OURS EN PELUCHE MOYEN    	ASSO  TU         	0000000079495  	          1	           55.35	           55.35	 
+	0001EMA   	00017/000000243	17/03/98	MOBILE      	MOBILE MUSICAL BOIS      	ASSO  TU         	0087927440669  	          3	           61.57	          184.71	 
+	0001EMA   	00017/000000243	17/03/98	MOHAN       	BODY ML CROISE           	ASSO  0M         	0000000067614  	          6	           18.04	          108.24	 
+	0001EMA   	00017/000000243	17/03/98	MOHAN       	BODY ML CROISE           	ASSO  1M         	0000000067638  	          9	           18.04	          162.36	 
+	0001EMA   	00017/000000243	17/03/98	MOHAN       	BODY ML CROISE           	ASSO  3M         	0000000067645  	          9	           18.04	          162.36	 
+	0001EMA   	00017/000000243	17/03/98	MOHAN       	BODY ML CROISE           	ASSO  6M         	0000000067652  	          6	           18.04	          108.24	 
+	0001EMA   	00017/000000243	17/03/98	MOHAN       	BODY ML CROISE           	ASSO  12M        	0000000067621  	          6	           18.04	          108.24	 
+	0001EMA   	00017/000000243	17/03/98	NANO        	TROUSSEAU NAISSANCE      	ASSO  TU         	0128747440665  	         90	           90.18	         8116.20	 
+	0001EMA   	00017/000000243	17/03/98	OMBRELLE    	OMBRELLE POUR POUSSETTE  	ASSO  TU         	0123217440664  	          4	           98.84	          395.36	 
+	0001EMA   	00017/000000243	17/03/98	ONDINE      	NID D'ANGE (SAC NAISSANCE	ASSO  TU         	0047217440663  	          7	           98.88	          692.16	 
+	0001EMA   	00017/000000243	17/03/98	ONDINEBIS   	NID D'ANGE               	U000  ASSO  TU   	0000000099707  	          8	           98.88	          791.04	 
+	0001EMA   	00017/000000243	17/03/98	OURSOSCAR   	OURS EPONGE 10CM         	ASSO  TU         	0127897440662  	          3	           30.47	           91.41	 
+	0001EMA   	00017/000000243	17/03/98	OURSVANILLA 	OURS PLAT 19CM           	ASSO  TU         	0127877440668  	          3	           24.25	           72.75	 
+	0001EMA   	00017/000000243	17/03/98	PAFFY       	CHIEN PELUCHE 25CM       	ASSO  TU         	0127917440665  	          2	           55.35	          110.70	 
+	0001EMA   	00017/000000243	17/03/98	PAPE        	PAPIER PEINT             	PAOR  TU         	0000000079976  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	PAPE        	PAPIER PEINT             	PAVE  TU         	0000000079983  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	PAPE        	PAPIER PEINT             	ROVE  TU         	0000000079990  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	PAPE        	PAPIER PEINT             	BEJA  TU         	0000000079938  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	PAPE        	PAPIER PEINT             	BEOR  TU         	0000000079945  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	PAPE        	PAPIER PEINT             	BGBE  TU         	0000000079952  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	PAPE        	PAPIER PEINT             	BGRO  TU         	0000000079969  	         25	           30.47	          761.75	 
+	0001EMA   	00017/000000243	17/03/98	PILA        	COMMODE                  	ASSO  TU         	0000000091640  	         12	          967.83	        11613.96	 
+	0001EMA   	00017/000000243	17/03/98	POILOURD    	PESE-BEBE                	ASSO  TU         	0084137440663  	          3	          430.51	         1291.53	 
+	0001EMA   	00017/000000243	17/03/98	PORTEBIB    	VACHE PORTEBIBERON       	ASSO  TU         	0104127440661  	          3	          108.83	          326.49	 
+	0001EMA   	00017/000000243	17/03/98	PORTEMOI    	 PORTE MANTEAU           	ASSO  TU         	0072017440667  	          2	           55.35	          110.70	 
+	0001EMA   	00017/000000243	17/03/98	POUCY       	CHAUSSONS BAIN EPONGE    	ASSO  TU         	0130857440664  	          1	           30.47	           30.47	 
+	0001EMA   	00017/000000243	17/03/98	POUCYBIS    	CHAUSSONS BAIN EPONGE    	U000  ASSO  TU   	0000000099158  	          1	           30.47	           30.47	 
+	0001EMA   	00017/000000243	17/03/98	PRIME       	GANT DE BAIN             	ASSO  TU         	0130867440661  	         10	           11.82	          118.20	 
+	0001EMA   	00017/000000243	17/03/98	PRIMEBIS    	GANT DE BAIN             	U000  ASSO  TU   	0000000099547  	         10	           11.82	          118.20	 
+	0001EMA   	00017/000000243	17/03/98	REPOSE      	TRANSAT                  	ASSO  TU         	0078627440660  	         10	          204.98	         2049.80	 
+	0001EMA   	00017/000000243	17/03/98	RHYS        	GILET EMMANCHURES RAGLANT	ASSO  0M         	0000000031103  	          4	           49.13	          196.52	 
+	0001EMA   	00017/000000243	17/03/98	RHYS        	GILET EMMANCHURES RAGLANT	ASSO  1M         	0000000031127  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	RHYS        	GILET EMMANCHURES RAGLANT	ASSO  3M         	0000000031134  	          6	           49.13	          294.78	 
+	0001EMA   	00017/000000243	17/03/98	RHYS        	GILET EMMANCHURES RAGLANT	ASSO  6M         	0000000031141  	          8	           49.13	          393.04	 
+	0001EMA   	00017/000000243	17/03/98	RHYS        	GILET EMMANCHURES RAGLANT	ASSO  12M        	0000000031110  	          8	           49.13	          393.04	 
+	0001EMA   	00017/000000243	17/03/98	ROSA        	CAUSSETTES REF I4198     	ASSO  TA         	0000000091985  	         25	           15.55	          388.75	 
+	0001EMA   	00017/000000243	17/03/98	ROSETTE     	CHAUSSETTES REF I4447    	ASSO  TA         	0000000091954  	         25	           15.55	          388.75	 
+	0001EMA   	00017/000000243	17/03/98	SAINTE      	BAVOIR POCHE             	ASSO  TU         	0130837440660  	          9	           27.99	          251.91	 
+	0001EMA   	00017/000000243	17/03/98	SAINTEBIS   	BAVOIR POCHE             	U000  ASSO  TU   	0000000099332  	          9	           27.99	          251.91	 
+	0001EMA   	00017/000000243	17/03/98	SEAPORT     	PETITE VALISE            	ASSO  TU         	0043567440667  	          1	          108.83	          108.83	 
+	0001EMA   	00017/000000243	17/03/98	SEAPORTBIS  	PETITE VALISE            	U000  ASSO  TU   	0000000100267  	          1	          108.83	          108.83	 
+	0001EMA   	00017/000000243	17/03/98	SETA        	COFFRET LAIT+SHAMPOING   	ASSO  TU         	0093727440662  	         25	           80.23	         2005.75	 
+	0001EMA   	00017/000000243	17/03/98	SIROP       	PORTE-COUCHES            	ASSO  TU         	0046747440662  	          2	           67.79	          135.58	 
+	0001EMA   	00017/000000243	17/03/98	SIROPBIS    	PORTE COUCHES            	U000  ASSO  TU   	0000000100113  	          2	           67.79	          135.58	 
+	0001EMA   	00017/000000243	17/03/98	SISAL       	SAC A LINGE SISAL        	ASSO  TU         	0065707440665  	          9	          158.58	         1427.22	 
+	0001EMA   	00017/000000243	17/03/98	TACOS       	COUVRE-LIT               	ASSO  T1         	0043505290668  	          4	           30.47	          121.88	 
+	0001EMA   	00017/000000243	17/03/98	TESIX       	COFFRET BIBERONS(6)      	ASSO  TU         	0106227440664  	         20	           79.60	         1592.00	 
+	0001EMA   	00017/000000243	17/03/98	TOISEZ      	TOISE                    	ASSO  TU         	0072007440660  	          2	           49.13	           98.26	 
+	0001EMA   	00017/000000243	17/03/98	VERTU       	BAVOIR A VOLANTS         	ASSO  TU         	0130827440663  	          9	           27.99	          251.91	 
+	0001EMA   	00017/000000243	17/03/98	VERTUBIS    	BAVOIR A VOLANT          	U000  ASSO  TU   	0000000099233  	          9	           27.99	          251.91	 
+	0001EMA   	00017/000000243	17/03/98	VOYAGEUSE   	SAC COUCHAGE NAISSANCE   	ASSO  TU         	0078907440663  	          7	           98.88	          692.16	 
+	0001EMA   	00017/000000243	17/03/98	VOYAGEUSEBIS	SAC DE COUCHAGE NAISSANCE	U000  ASSO  TU   	0000000099622  	          8	           98.88	          791.04	 
+	0001EMA   	00017/000000243	17/03/98	VRAK        	HOCHET EPONGE            	ASSO  TU         	0129787440660  	          2	           36.69	           73.38	 
+	0001EMA   	00017/000000243	17/03/98	ZFOURNITURE 	FOURNITURE               	(Sans dim.)      	0104170000003  	          1	          172.05	          172.05	 
